@@ -1,0 +1,603 @@
+brand,model,type,strings,frets,price,mensuration,body,colour,descr,img
+Homage,HEG350BK,Stratocaster,6,22,14.110,25.5,массив твёрдого дерева,черный,C:/Users/user/ct/da/lab1-parser/descrs/1.html,C:/Users/user/ct/da/lab1-parser/imgs/1.jpg
+ROCKET,ST-02 BB,Stratocaster,6,22,9.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/2.html,C:/Users/user/ct/da/lab1-parser/imgs/2.jpg
+ROCKET,EG-1 BK,Ibanez,6,22,11.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/3.html,C:/Users/user/ct/da/lab1-parser/imgs/3.jpg
+ROCKET,ST-32 SB,Stratocaster,6,22,7.990,25.5,липа,санбёрст,C:/Users/user/ct/da/lab1-parser/descrs/4.html,C:/Users/user/ct/da/lab1-parser/imgs/4.jpg
+ROCKET,ST-01 SB,Stratocaster,6,22,9.490,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/5.html,C:/Users/user/ct/da/lab1-parser/imgs/5.jpg
+Cort,CR250-TBK Classic Rock,Les Paul,6,22,46.330,24.724,красное дерево,черный,C:/Users/user/ct/da/lab1-parser/descrs/6.html,C:/Users/user/ct/da/lab1-parser/imgs/6.jpg
+Fender,SQUIER BULLET TREM AWT,Stratocaster,6,22,49.165,25.5,липа,коричневый санбёрст brown sunburst,C:/Users/user/ct/da/lab1-parser/descrs/7.html,C:/Users/user/ct/da/lab1-parser/imgs/7.jpg
+Schecter,SGR BANSHEE-6 BLK,Stratocaster,6,24,29.625,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/8.html,C:/Users/user/ct/da/lab1-parser/imgs/8.jpg
+Aria,STG-003SPL BK,Stratocaster,6,22,15.052,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/9.html,C:/Users/user/ct/da/lab1-parser/imgs/9.jpg
+ROCKET,ST-01 RD,Stratocaster,6,22,9.490,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/10.html,C:/Users/user/ct/da/lab1-parser/imgs/10.jpg
+ROCKET,LP-1 SB,Stratocaster,6,22,11.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/11.html,C:/Users/user/ct/da/lab1-parser/imgs/11.jpg
+ROCKET,EG-1 WH,Ibanez,6,22,11.990,25.5,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/12.html,C:/Users/user/ct/da/lab1-parser/imgs/12.jpg
+Aria,714-STD VW,Stratocaster,6,22,15.546,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/13.html,C:/Users/user/ct/da/lab1-parser/imgs/13.jpg
+Schecter,DEMON-8 ABSN,Stratocaster,8,24,66.516,28,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/14.html,C:/Users/user/ct/da/lab1-parser/imgs/14.jpg
+Homage,HEG310BK,Stratocaster,6,22,11.810,25.512,дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/15.html,C:/Users/user/ct/da/lab1-parser/imgs/15.jpg
+Aria,714-STD VW,Stratocaster,6,22,15.546,25.512,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/16.html,C:/Users/user/ct/da/lab1-parser/imgs/16.jpg
+Cort,G250-LH-BK G Series,Stratocaster,6,22,33.990,25.512,липа,черный,C:/Users/user/ct/da/lab1-parser/descrs/17.html,C:/Users/user/ct/da/lab1-parser/imgs/17.jpg
+Homage,HEG330RDS,Stratocaster,6,22,12.490,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/18.html,C:/Users/user/ct/da/lab1-parser/imgs/18.jpg
+Rockdale,Stars HSS BK,Stratocaster,6,22,12.200,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/19.html,C:/Users/user/ct/da/lab1-parser/imgs/19.jpg
+Clevan,CTD-20-SBK,Stratocaster,6,22,19.030,25.5,агатис,черный,C:/Users/user/ct/da/lab1-parser/descrs/20.html,C:/Users/user/ct/da/lab1-parser/imgs/20.jpg
+Tenson,Nashville SD Set Neck Transparent Red,Stratocaster,6,22,31.136,25.5,массив липы,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/21.html,C:/Users/user/ct/da/lab1-parser/imgs/21.jpg
+ROCKET,ST-02 RD,Stratocaster,6,22,9.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/22.html,C:/Users/user/ct/da/lab1-parser/imgs/22.jpg
+Clevan,CSA-22-SBK,Stratocaster,6,22,20.630,25.5,древесина твердых пород,черный матовый,C:/Users/user/ct/da/lab1-parser/descrs/23.html,C:/Users/user/ct/da/lab1-parser/imgs/23.jpg
+Schecter,SGR C-1 BLK,Stratocaster,6,24,28.796,25.512,американская липа,матовый орех,C:/Users/user/ct/da/lab1-parser/descrs/24.html,C:/Users/user/ct/da/lab1-parser/imgs/24.jpg
+Cort,KX300-OPCB KX Series,Stratocaster,6,24,43.290,25.5,основа из красного дерева верх из подгнившего клена,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/25.html,C:/Users/user/ct/da/lab1-parser/imgs/25.jpg
+Aria,STG-004 WH,Stratocaster,6,22,15.548,25.512,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/26.html,C:/Users/user/ct/da/lab1-parser/imgs/26.jpg
+Cort,X100-OPBK,Stratocaster,6,22,19.980,25.512,красное дерево меранти,черный,C:/Users/user/ct/da/lab1-parser/descrs/27.html,C:/Users/user/ct/da/lab1-parser/imgs/27.jpg
+ROCKET,ST-32 RD,Stratocaster,6,22,7.990,25.5,липа,красный,C:/Users/user/ct/da/lab1-parser/descrs/28.html,C:/Users/user/ct/da/lab1-parser/imgs/28.jpg
+Aria,714-STD BK,Stratocaster,6,22,15.546,25.512,липа,черный,C:/Users/user/ct/da/lab1-parser/descrs/29.html,C:/Users/user/ct/da/lab1-parser/imgs/29.jpg
+Cort,X700-LBB-II Duality X Series,Stratocaster,6,22,102.770,25.512,болотный ясень  верх из волнистого клена,синий light blue burst,C:/Users/user/ct/da/lab1-parser/descrs/30.html,C:/Users/user/ct/da/lab1-parser/imgs/30.jpg
+Caraya,E200TGR,Stratocaster,6,22,14.810,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/31.html,C:/Users/user/ct/da/lab1-parser/imgs/31.jpg
+Schecter,DEMON-6 CRB,Stratocaster,6,22,56.304,25.5,липа,темнокрасный бёст,C:/Users/user/ct/da/lab1-parser/descrs/32.html,C:/Users/user/ct/da/lab1-parser/imgs/32.jpg
+Reverend,Volcano Midnight Black,Stratocaster,6,22,80.841,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/33.html,C:/Users/user/ct/da/lab1-parser/imgs/33.jpg
+Cort,CR250-VB Classic Rock,Les Paul,6,22,47.180,24.724,красное дерево,черный,C:/Users/user/ct/da/lab1-parser/descrs/34.html,C:/Users/user/ct/da/lab1-parser/imgs/34.jpg
+Fernandes,LE-1Z 3S BLK/L,Stratocaster,6,22,26.990,25.5,ольха,трёхцветный санберст 3tone sunburst,C:/Users/user/ct/da/lab1-parser/descrs/35.html,C:/Users/user/ct/da/lab1-parser/imgs/35.jpg
+Clevan,CTD-30/FR-MRD,Stratocaster,6,22,25.730,25.5,агатис,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/36.html,C:/Users/user/ct/da/lab1-parser/imgs/36.jpg
+Schecter,SGR BANSHEE-6 SBK,Stratocaster,6,24,29.625,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/37.html,C:/Users/user/ct/da/lab1-parser/imgs/37.jpg
+Homage,HEG500RDS,Les Paul,6,22,14.110,24.724,дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/38.html,C:/Users/user/ct/da/lab1-parser/imgs/38.jpg
+Schecter,C-7 PRO CB,Stratocaster,7,24,66.976,26.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/39.html,C:/Users/user/ct/da/lab1-parser/imgs/39.jpg
+Yamaha,Pacifica-611HFMLAB,Stratocaster,6,22,109.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/40.html,C:/Users/user/ct/da/lab1-parser/imgs/40.jpg
+Aria,PE-350CST AGBK,Les Paul,6,22,36.074,25.5,липа,agbk aged black,C:/Users/user/ct/da/lab1-parser/descrs/41.html,C:/Users/user/ct/da/lab1-parser/imgs/41.jpg
+Schecter,SGR C-1 EB,Stratocaster,6,24,28.796,25.512,американская липа,матовый орех,C:/Users/user/ct/da/lab1-parser/descrs/42.html,C:/Users/user/ct/da/lab1-parser/imgs/42.jpg
+Rockdale,Stars SSH WH,Stratocaster,6,22,10.900,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/43.html,C:/Users/user/ct/da/lab1-parser/imgs/43.jpg
+Burny,RLC60 BLK,Les Paul,6,22,59.990,24.7,махагони,черный,C:/Users/user/ct/da/lab1-parser/descrs/44.html,C:/Users/user/ct/da/lab1-parser/imgs/44.jpg
+Clevan,CPA-80-BK,Stratocaster,6,22,30.020,24.724,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/45.html,C:/Users/user/ct/da/lab1-parser/imgs/45.jpg
+Clevan,CST-30N,Stratocaster,6,22,19.030,25.5,древесина твердых пород,натуральный,C:/Users/user/ct/da/lab1-parser/descrs/46.html,C:/Users/user/ct/da/lab1-parser/imgs/46.jpg
+Cort,KX508MS-MBB,Stratocaster,8,22,82.970,265.236,болотный ясень  верх из волнистого тополя,зеленый,C:/Users/user/ct/da/lab1-parser/descrs/47.html,C:/Users/user/ct/da/lab1-parser/imgs/47.jpg
+Schecter,DEMON-6 FR VWHT,Stratocaster,6,24,52.990,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/48.html,C:/Users/user/ct/da/lab1-parser/imgs/48.jpg
+Schecter,OMEN-6 BLK,Stratocaster,6,24,50.048,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/49.html,C:/Users/user/ct/da/lab1-parser/imgs/49.jpg
+Schecter,C-6 FR PRO AQB,Stratocaster,6,24,88.416,25.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/50.html,C:/Users/user/ct/da/lab1-parser/imgs/50.jpg
+Schecter,REAPER-6 SATIN CHARCOAL BURST (SCB),Stratocaster,6,24,74.152,25.5,болотный ясень,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/51.html,C:/Users/user/ct/da/lab1-parser/imgs/51.jpg
+Clevan,CTD-52-SBK,Stratocaster,6,22,25.590,25.512,из американской липы,черный,C:/Users/user/ct/da/lab1-parser/descrs/52.html,C:/Users/user/ct/da/lab1-parser/imgs/52.jpg
+Schecter,OMEN-6 WSN,Stratocaster,6,24,50.048,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/53.html,C:/Users/user/ct/da/lab1-parser/imgs/53.jpg
+Schecter,SGR BANSHEE-6 WSN,Stratocaster,6,24,29.625,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/54.html,C:/Users/user/ct/da/lab1-parser/imgs/54.jpg
+Aria,PE-350STD AGBK,Les Paul,6,22,30.296,25.5,липа,agbk aged black,C:/Users/user/ct/da/lab1-parser/descrs/55.html,C:/Users/user/ct/da/lab1-parser/imgs/55.jpg
+Aria,MAC-STD BK,Stratocaster,6,22,24.859,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/56.html,C:/Users/user/ct/da/lab1-parser/imgs/56.jpg
+ROCKET,EG-1 SB,Ibanez,6,22,11.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/57.html,C:/Users/user/ct/da/lab1-parser/imgs/57.jpg
+Blackstar,Carry On Lite White,Stratocaster,6,22,29.990,25.5,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/58.html,C:/Users/user/ct/da/lab1-parser/imgs/58.jpg
+Schecter,DEMON 7 ABSN,Stratocaster,7,24,61.824,26.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/59.html,C:/Users/user/ct/da/lab1-parser/imgs/59.jpg
+Fernandes,RXX06 BLK,Stratocaster,6,22,39.990,25.5,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/60.html,C:/Users/user/ct/da/lab1-parser/imgs/60.jpg
+Schecter,DEMON-7 VWHT,Stratocaster,7,24,61.824,26.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/61.html,C:/Users/user/ct/da/lab1-parser/imgs/61.jpg
+Aria,STG-003 CA,Stratocaster,6,22,15.052,25.512,липа,3х тоновый санберст,C:/Users/user/ct/da/lab1-parser/descrs/62.html,C:/Users/user/ct/da/lab1-parser/imgs/62.jpg
+Schecter,SGR C-1 WSN,Stratocaster,6,24,28.796,25.512,американская липа,матовый орех,C:/Users/user/ct/da/lab1-parser/descrs/63.html,C:/Users/user/ct/da/lab1-parser/imgs/63.jpg
+ROCKET,E-4 BK,Stratocaster,6,22,16.990,25.5,explorer,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/64.html,C:/Users/user/ct/da/lab1-parser/imgs/64.jpg
+Schecter,C-6 FR PRO CB,Stratocaster,6,22,88.416,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/65.html,C:/Users/user/ct/da/lab1-parser/imgs/65.jpg
+Aria,STG 003,Stratocaster,6,22,15.052,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/66.html,C:/Users/user/ct/da/lab1-parser/imgs/66.jpg
+Schecter,C-7 PRO AQB,Stratocaster,7,24,66.976,26.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/67.html,C:/Users/user/ct/da/lab1-parser/imgs/67.jpg
+Fernandes,LE-1Z 3S 2SB/M,Stratocaster,6,22,26.990,25.512,ольха,2х тоновый санберст,C:/Users/user/ct/da/lab1-parser/descrs/68.html,C:/Users/user/ct/da/lab1-parser/imgs/68.jpg
+Cort,KX300-Etched-EBG KX Series,Stratocaster,6,22,55.500,25.512,красное дерево  верх из волнистого ясеня пескоструйная обработка,травленое черное золото,C:/Users/user/ct/da/lab1-parser/descrs/69.html,C:/Users/user/ct/da/lab1-parser/imgs/69.jpg
+Solar,Guitars V2.6C,Stratocaster,6,22,119.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/70.html,C:/Users/user/ct/da/lab1-parser/imgs/70.jpg
+Clevan,CTD-52-BCH,Stratocaster,6,22,25.060,25.512,американская липа,вишня,C:/Users/user/ct/da/lab1-parser/descrs/71.html,C:/Users/user/ct/da/lab1-parser/imgs/71.jpg
+Burny,RLG60 VCS,Les Paul,6,22,59.990,24.7,махагони,вишневый берст,C:/Users/user/ct/da/lab1-parser/descrs/72.html,C:/Users/user/ct/da/lab1-parser/imgs/72.jpg
+Schecter,C-6 PLUS CB,Stratocaster,6,24,44.528,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/73.html,C:/Users/user/ct/da/lab1-parser/imgs/73.jpg
+Homage,HEG300RDS,Stratocaster,6,22,11.810,25.512,дерево,красный,C:/Users/user/ct/da/lab1-parser/descrs/74.html,C:/Users/user/ct/da/lab1-parser/imgs/74.jpg
+Cort,G280-Select-TBK G Series,Stratocaster,6,22,57.560,25.512,ольха,прозрачный черный trans black,C:/Users/user/ct/da/lab1-parser/descrs/75.html,C:/Users/user/ct/da/lab1-parser/imgs/75.jpg
+Clevan,CST-52/FR-BK,Stratocaster,6,22,24.920,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/76.html,C:/Users/user/ct/da/lab1-parser/imgs/76.jpg
+Cort,CR100-CRS,Les Paul,6,22,29.420,24.724,красное дерево,красный санберст,C:/Users/user/ct/da/lab1-parser/descrs/77.html,C:/Users/user/ct/da/lab1-parser/imgs/77.jpg
+Schecter,C-7 PRO ARB,Stratocaster,7,24,66.976,26.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/78.html,C:/Users/user/ct/da/lab1-parser/imgs/78.jpg
+ROCKET,E-4 RD,Stratocaster,6,22,16.990,25.5,explorer,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/79.html,C:/Users/user/ct/da/lab1-parser/imgs/79.jpg
+Encore,E2SB,Telecaster,6,22,12.990,25.5,липа,санберст,C:/Users/user/ct/da/lab1-parser/descrs/80.html,C:/Users/user/ct/da/lab1-parser/imgs/80.jpg
+Cort,CR250-ATA,Les Paul,6,22,47.180,24.724,красное деревоволнистый клен,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/81.html,C:/Users/user/ct/da/lab1-parser/imgs/81.jpg
+G&L,Tribute Legacy Natural Ash MP,Stratocaster,6,22,85.500,25,болотный ясень c полупрозрачным или burst окрасом липа со сплошным окрасом,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/82.html,C:/Users/user/ct/da/lab1-parser/imgs/82.jpg
+Aria,STG-003SPL VW,Stratocaster,6,22,15.052,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/83.html,C:/Users/user/ct/da/lab1-parser/imgs/83.jpg
+EPIPHONE,Les Paul Studio Alpine White,Les Paul,6,22,98.000,24.7,махагони,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/84.html,C:/Users/user/ct/da/lab1-parser/imgs/84.jpg
+Clevan,CST-10RD,Stratocaster,6,22,13.130,25.5,агатис,красный,C:/Users/user/ct/da/lab1-parser/descrs/85.html,C:/Users/user/ct/da/lab1-parser/imgs/85.jpg
+Fernandes,RXX06 SW,Stratocaster,6,24,39.990,25.512,ольха,белоснежный,C:/Users/user/ct/da/lab1-parser/descrs/86.html,C:/Users/user/ct/da/lab1-parser/imgs/86.jpg
+Cort,KX500-Etched-EDV KX Series с фирменным чехлом,Stratocaster,6,24,74.110,25.512,красное дерево  верх из волнистого ясеня пескоструйная обработка,фиолетовый etched deep violet,C:/Users/user/ct/da/lab1-parser/descrs/87.html,C:/Users/user/ct/da/lab1-parser/imgs/87.jpg
+Cort,G250-BK,Stratocaster,6,22,30.530,25.512,липа,красный,C:/Users/user/ct/da/lab1-parser/descrs/88.html,C:/Users/user/ct/da/lab1-parser/imgs/88.jpg
+Cort,KX507MS-SDG KX Series,Stratocaster,7,22,75.200,25.5,красное дерево  верх из капа тополя,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/89.html,C:/Users/user/ct/da/lab1-parser/imgs/89.jpg
+Clevan,CX-52/FR-BK,Stratocaster,6,22,24.970,25.5,агатис,черный,C:/Users/user/ct/da/lab1-parser/descrs/90.html,C:/Users/user/ct/da/lab1-parser/imgs/90.jpg
+G&L,Tribute ASAT Classic Sonic Blue Poplar MP,Telecaster,6,22,82.800,25.5,тополь,голубой,C:/Users/user/ct/da/lab1-parser/descrs/91.html,C:/Users/user/ct/da/lab1-parser/imgs/91.jpg
+Aria,STG-003 3TS,Stratocaster,6,22,15.052,25.512,липа,3х тоновый санберст,C:/Users/user/ct/da/lab1-parser/descrs/92.html,C:/Users/user/ct/da/lab1-parser/imgs/92.jpg
+Prodipe,JMFGS300WRNC GS300,Stratocaster,6,22,39.950,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/93.html,C:/Users/user/ct/da/lab1-parser/imgs/93.jpg
+Schecter,C-6 Deluxe SMLB,Stratocaster,6,24,39.100,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/94.html,C:/Users/user/ct/da/lab1-parser/imgs/94.jpg
+Fernandes,LE-1Z 3S 3SB/L,Stratocaster,6,22,26.990,25.5,ольха,трёхцветный санберст 3tone sunburst,C:/Users/user/ct/da/lab1-parser/descrs/95.html,C:/Users/user/ct/da/lab1-parser/imgs/95.jpg
+Fernandes,LE-1Z 3S CAR/L,Stratocaster,6,22,26.990,25.5,ольха,трёхцветный санберст 3tone sunburst,C:/Users/user/ct/da/lab1-parser/descrs/96.html,C:/Users/user/ct/da/lab1-parser/imgs/96.jpg
+Schecter,OMEN-6 VWHT,Stratocaster,6,24,50.048,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/97.html,C:/Users/user/ct/da/lab1-parser/imgs/97.jpg
+Schecter,SGR 006 BLK,Stratocaster,6,22,28.796,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/98.html,C:/Users/user/ct/da/lab1-parser/imgs/98.jpg
+Schecter,C-6 PRO CB,Stratocaster,6,22,59.524,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/99.html,C:/Users/user/ct/da/lab1-parser/imgs/99.jpg
+Schecter,SGR C-1 M Red,Stratocaster,6,24,28.796,25.512,американская липа,матовый орех,C:/Users/user/ct/da/lab1-parser/descrs/100.html,C:/Users/user/ct/da/lab1-parser/imgs/100.jpg
+Cort,Sunset-TC-OPMY,Stratocaster,6,22,41.510,25.512,ясень,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/101.html,C:/Users/user/ct/da/lab1-parser/imgs/101.jpg
+Fernandes,RXX06 MTR,Stratocaster,6,22,39.990,25.5,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/102.html,C:/Users/user/ct/da/lab1-parser/imgs/102.jpg
+Schecter,OMEN-7 WSN,Stratocaster,7,24,56.304,26.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/103.html,C:/Users/user/ct/da/lab1-parser/imgs/103.jpg
+G&L,Tribute S-500 Vintage White Jatoba,Stratocaster,6,22,93.600,25,нато,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/104.html,C:/Users/user/ct/da/lab1-parser/imgs/104.jpg
+G&L,Tribute Legacy Gloss Black MP Poplar,Stratocaster,6,22,76.000,25,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/105.html,C:/Users/user/ct/da/lab1-parser/imgs/105.jpg
+Schecter,SGR 006 M Red,Stratocaster,6,22,28.796,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/106.html,C:/Users/user/ct/da/lab1-parser/imgs/106.jpg
+Cort,KX300-OPRB,Stratocaster,6,24,43.290,25.512,красное дерево  верх из подгнившего клена,коричневый санберст,C:/Users/user/ct/da/lab1-parser/descrs/107.html,C:/Users/user/ct/da/lab1-parser/imgs/107.jpg
+Rockdale,Stars SSH SB,Stratocaster,6,22,10.900,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/108.html,C:/Users/user/ct/da/lab1-parser/imgs/108.jpg
+Schecter,DEMON 6 ABSN,Stratocaster,6,24,56.304,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/109.html,C:/Users/user/ct/da/lab1-parser/imgs/109.jpg
+Schecter,BANSHEE-6 SGR M RED,Stratocaster,6,24,29.625,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/110.html,C:/Users/user/ct/da/lab1-parser/imgs/110.jpg
+Schecter,C-6 PLUS VSB,Stratocaster,6,24,44.528,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/111.html,C:/Users/user/ct/da/lab1-parser/imgs/111.jpg
+G&L,Tribute ASAT Classic Bluesboy Sonic Blue MP,Telecaster,6,22,82.800,25,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/112.html,C:/Users/user/ct/da/lab1-parser/imgs/112.jpg
+Schecter,C-6 PRO ARB,Stratocaster,6,24,59.524,25.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/113.html,C:/Users/user/ct/da/lab1-parser/imgs/113.jpg
+Schecter,OMEN-7 VWHT,Stratocaster,7,24,56.304,26.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/114.html,C:/Users/user/ct/da/lab1-parser/imgs/114.jpg
+Cort,CR200-GT,Les Paul,6,22,43.020,24.724,красное дерево,золото,C:/Users/user/ct/da/lab1-parser/descrs/115.html,C:/Users/user/ct/da/lab1-parser/imgs/115.jpg
+G&L,Tribute Legacy Surf Green Jatoba,Stratocaster,6,22,82.800,25,болотный ясень c полупрозрачным или burst окрасом липа со сплошным окрасом,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/116.html,C:/Users/user/ct/da/lab1-parser/imgs/116.jpg
+Cort,KX100-BKM,Stratocaster,6,24,26.090,24.724,американская липа,черный металлик,C:/Users/user/ct/da/lab1-parser/descrs/117.html,C:/Users/user/ct/da/lab1-parser/imgs/117.jpg
+Clevan,CST-20SB,Stratocaster,6,22,16.010,25.5,агатис,коричневый санберст,C:/Users/user/ct/da/lab1-parser/descrs/118.html,C:/Users/user/ct/da/lab1-parser/imgs/118.jpg
+Cort,G250-SVM,Stratocaster,6,22,30.530,25.512,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/119.html,C:/Users/user/ct/da/lab1-parser/imgs/119.jpg
+Clevan,CP-10-RD,Stratocaster,6,22,17.420,25.512,древесина твердых пород,красный глянцевый,C:/Users/user/ct/da/lab1-parser/descrs/120.html,C:/Users/user/ct/da/lab1-parser/imgs/120.jpg
+Fernandes,RXX06 DAG,Stratocaster,6,22,39.990,25.5,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/121.html,C:/Users/user/ct/da/lab1-parser/imgs/121.jpg
+Schecter,C-6 PLUS STCB,Stratocaster,6,24,44.528,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/122.html,C:/Users/user/ct/da/lab1-parser/imgs/122.jpg
+G&L,FD ASAT Classic 3-Tone Sunburst MP,Telecaster,6,22,220.500,25,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/123.html,C:/Users/user/ct/da/lab1-parser/imgs/123.jpg
+Cort,KX507MS-SDB KX Series,Stratocaster,7,22,75.200,25.5,красное дерево  верх из капа тополя,star dust black,C:/Users/user/ct/da/lab1-parser/descrs/124.html,C:/Users/user/ct/da/lab1-parser/imgs/124.jpg
+Aria,STG-003SPL 3TS,Stratocaster,6,22,15.052,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/125.html,C:/Users/user/ct/da/lab1-parser/imgs/125.jpg
+Schecter,C-6 PLUS EM,Stratocaster,6,24,44.528,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/126.html,C:/Users/user/ct/da/lab1-parser/imgs/126.jpg
+Schecter,OMEN EXTREME-6 VSB,Stratocaster,6,24,49.990,25.5,махагон,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/127.html,C:/Users/user/ct/da/lab1-parser/imgs/127.jpg
+Schecter,REAPER-6 INFERNO BURST (SIB),Stratocaster,6,24,74.152,25.5,болотный ясень,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/128.html,C:/Users/user/ct/da/lab1-parser/imgs/128.jpg
+Fernandes,RX08 BLK,Stratocaster,6,24,39.990,25.512,ольха,black,C:/Users/user/ct/da/lab1-parser/descrs/129.html,C:/Users/user/ct/da/lab1-parser/imgs/129.jpg
+Cort,G300-PRO-VVB G Series,Stratocaster,6,24,71.440,25.512,липа кленовый топ,красный vivid burgundy,C:/Users/user/ct/da/lab1-parser/descrs/130.html,C:/Users/user/ct/da/lab1-parser/imgs/130.jpg
+ROCKET,E-5 SB,Stratocaster,6,22,14.290,25.5,стрела vобразная,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/131.html,C:/Users/user/ct/da/lab1-parser/imgs/131.jpg
+Cort,G300-PRO-BK G Series,Stratocaster,6,24,71.440,25.512,липа кленовый топ,черный,C:/Users/user/ct/da/lab1-parser/descrs/132.html,C:/Users/user/ct/da/lab1-parser/imgs/132.jpg
+Solar,Guitars V2.7C,V,7,24,125.990,25.5,махагони,carbon matte угольночерный матовый,C:/Users/user/ct/da/lab1-parser/descrs/133.html,C:/Users/user/ct/da/lab1-parser/imgs/133.jpg
+Schecter,SGR BANSHEE-6 EB,Stratocaster,6,24,29.625,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/134.html,C:/Users/user/ct/da/lab1-parser/imgs/134.jpg
+Cort,G280-Select-AM G Series,Stratocaster,6,22,49.670,25.512,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/135.html,C:/Users/user/ct/da/lab1-parser/imgs/135.jpg
+G&L,ASAT Classic Bluesboy Semi-Hollow 3-Tone Sunburst MP,Telecaster,6,22,307.800,25,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/136.html,C:/Users/user/ct/da/lab1-parser/imgs/136.jpg
+G&L,FD ASAT Special 3-Tone Sunburst CR,Telecaster,6,22,185.000,25,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/137.html,C:/Users/user/ct/da/lab1-parser/imgs/137.jpg
+Encore,E6SB,Stratocaster,6,22,13.990,25.5,липа,санберст,C:/Users/user/ct/da/lab1-parser/descrs/138.html,C:/Users/user/ct/da/lab1-parser/imgs/138.jpg
+ROCKET,E-5 RD,Stratocaster,6,22,14.290,25.5,стрела vобразная,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/139.html,C:/Users/user/ct/da/lab1-parser/imgs/139.jpg
+Schecter,C-6 FR PRO ARB,Stratocaster,6,22,88.416,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/140.html,C:/Users/user/ct/da/lab1-parser/imgs/140.jpg
+Fernandes,LE-1Z 3S CW/L,Stratocaster,6,22,26.990,25.5,ольха,трёхцветный санберст 3tone sunburst,C:/Users/user/ct/da/lab1-parser/descrs/141.html,C:/Users/user/ct/da/lab1-parser/imgs/141.jpg
+Schecter,SGR 006 MSBK,Stratocaster,6,22,28.796,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/142.html,C:/Users/user/ct/da/lab1-parser/imgs/142.jpg
+Schecter,SGR 006 WSN,Stratocaster,6,22,28.796,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/143.html,C:/Users/user/ct/da/lab1-parser/imgs/143.jpg
+Cort,G290-FAT-AVB,Stratocaster,6,22,55.580,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/144.html,C:/Users/user/ct/da/lab1-parser/imgs/144.jpg
+G&L,FD ASAT Classic Bluesboy Blonde MP,Telecaster,6,22,269.100,25,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/145.html,C:/Users/user/ct/da/lab1-parser/imgs/145.jpg
+G&L,Tribute Legacy Gloss White MP Poplar,Stratocaster,6,22,82.800,25,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/146.html,C:/Users/user/ct/da/lab1-parser/imgs/146.jpg
+Aria,STG 003,Stratocaster,6,22,15.052,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/147.html,C:/Users/user/ct/da/lab1-parser/imgs/147.jpg
+Schecter,C-6 DELUXE SATIN DARK PURPLE,Stratocaster,6,24,38.490,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/148.html,C:/Users/user/ct/da/lab1-parser/imgs/148.jpg
+G&L,FD ASAT Classic Bluesboy 3-Tone Sunburst CR,Telecaster,6,22,255.600,25,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/149.html,C:/Users/user/ct/da/lab1-parser/imgs/149.jpg
+Schecter,C-6 PLUS OBB,Stratocaster,6,24,44.528,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/150.html,C:/Users/user/ct/da/lab1-parser/imgs/150.jpg
+Cort,X700-LVB Duality-II X Series,Stratocaster,6,24,102.770,25.512,болотный ясень  верх из волнистого клена,натуральный antique violin burst,C:/Users/user/ct/da/lab1-parser/descrs/151.html,C:/Users/user/ct/da/lab1-parser/imgs/151.jpg
+ROCKET,E-5 BK,Stratocaster,6,22,14.290,25.5,стрела vобразная,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/152.html,C:/Users/user/ct/da/lab1-parser/imgs/152.jpg
+G&L,FD ASAT Classic Alnico Butterscotch Blonde MP,Telecaster,6,22,239.400,25,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/153.html,C:/Users/user/ct/da/lab1-parser/imgs/153.jpg
+G&L,FD ASAT Classic Alnico Blonde CR,Telecaster,6,22,239.400,25,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/154.html,C:/Users/user/ct/da/lab1-parser/imgs/154.jpg
+ROCKET,E-5 WH,Stratocaster,6,22,14.290,25.5,стрела vобразная,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/155.html,C:/Users/user/ct/da/lab1-parser/imgs/155.jpg
+Cort,G250-CGM,Stratocaster,6,22,30.530,25.512,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/156.html,C:/Users/user/ct/da/lab1-parser/imgs/156.jpg
+G&L,ASAT Classic Semi-Hollow Blonde MP,Telecaster,6,22,296.100,25,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/157.html,C:/Users/user/ct/da/lab1-parser/imgs/157.jpg
+Dean,MD24 F CBK,Stratocaster,6,24,118.994,25,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/158.html,C:/Users/user/ct/da/lab1-parser/imgs/158.jpg
+Schecter,BANSHEE-6 SGR EB,Stratocaster,6,24,29.624,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/159.html,C:/Users/user/ct/da/lab1-parser/imgs/159.jpg
+G&L,Fallout Alpine White CR,Stratocaster,6,22,237.600,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/160.html,C:/Users/user/ct/da/lab1-parser/imgs/160.jpg
+EPIPHONE,SLASH APPETITE LES PAUL SPECIAL II PERFORMANCE PACK,Stratocaster,6,22,68.706,24.7,тополь,appetite burst,C:/Users/user/ct/da/lab1-parser/descrs/161.html,C:/Users/user/ct/da/lab1-parser/imgs/161.jpg
+G&L,FD ASAT Classic 3-Tone Sunburst CR,Telecaster,6,22,220.500,25,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/162.html,C:/Users/user/ct/da/lab1-parser/imgs/162.jpg
+ROCKET,E-5 BB,Stratocaster,6,22,14.290,25.5,стрела vобразная,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/163.html,C:/Users/user/ct/da/lab1-parser/imgs/163.jpg
+Prodipe,JMFST80RASG ST80RA,Stratocaster,6,22,29.120,25.5,липа,зеленый surf green,C:/Users/user/ct/da/lab1-parser/descrs/164.html,C:/Users/user/ct/da/lab1-parser/imgs/164.jpg
+Schecter,OMEN EXTREME-6 VSB,Stratocaster,6,22,55.108,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/165.html,C:/Users/user/ct/da/lab1-parser/imgs/165.jpg
+REDHILL,STM200/BK,Stratocaster,6,22,17.988,25.512,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/166.html,C:/Users/user/ct/da/lab1-parser/imgs/166.jpg
+Prodipe,JMFGS300BRNC GS300,Stratocaster,6,22,36.110,25.5,окоуме,коричневый,C:/Users/user/ct/da/lab1-parser/descrs/167.html,C:/Users/user/ct/da/lab1-parser/imgs/167.jpg
+Prodipe,JMFST80MACAR ST80MA,Stratocaster,6,22,29.530,25.5,липа,красный candy red,C:/Users/user/ct/da/lab1-parser/descrs/168.html,C:/Users/user/ct/da/lab1-parser/imgs/168.jpg
+G&L,FD Legacy Blonde MP,Stratocaster,6,22,239.400,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/169.html,C:/Users/user/ct/da/lab1-parser/imgs/169.jpg
+REDHILL,STM200/AQBL,Stratocaster,6,22,17.988,25.512,ольха,морской волны aqua blue,C:/Users/user/ct/da/lab1-parser/descrs/170.html,C:/Users/user/ct/da/lab1-parser/imgs/170.jpg
+REDHILL,STM100/BK,Stratocaster,6,22,16.788,23.622,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/171.html,C:/Users/user/ct/da/lab1-parser/imgs/171.jpg
+G&L,FD ASAT Classic Jet Black CR,Telecaster,6,22,220.500,25,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/172.html,C:/Users/user/ct/da/lab1-parser/imgs/172.jpg
+S,by Solar SB4.6FRFBL,Stratocaster,6,22,45.990,25.5,тополь огненный клён,синий глянцевый,C:/Users/user/ct/da/lab1-parser/descrs/173.html,C:/Users/user/ct/da/lab1-parser/imgs/173.jpg
+REDHILL,STM300/BK,Stratocaster,6,22,25.188,25.512,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/174.html,C:/Users/user/ct/da/lab1-parser/imgs/174.jpg
+Cort,G110-OPBC G Series with BAG,Stratocaster,6,22,23.470,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/175.html,C:/Users/user/ct/da/lab1-parser/imgs/175.jpg
+ROCKET,E-4 N GOlD,Stratocaster,6,22,19.990,25.5,explorer,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/176.html,C:/Users/user/ct/da/lab1-parser/imgs/176.jpg
+EPIPHONE,Les Paul Electric Guitar Player Pack Vintage Sunburst,Stratocaster,6,22,52.706,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/177.html,C:/Users/user/ct/da/lab1-parser/imgs/177.jpg
+REDHILL,SGX200/BK,Stratocaster,6,22,31.188,24.724,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/178.html,C:/Users/user/ct/da/lab1-parser/imgs/178.jpg
+Prodipe,JMFST83RABK ST83RA,Stratocaster,6,22,29.120,25.5,липа,черный,C:/Users/user/ct/da/lab1-parser/descrs/179.html,C:/Users/user/ct/da/lab1-parser/imgs/179.jpg
+Magna,2050F-FCB,Stratocaster,6,22,37.380,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/180.html,C:/Users/user/ct/da/lab1-parser/imgs/180.jpg
+REDHILL,STM100/WH,Stratocaster,6,22,16.788,23.622,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/181.html,C:/Users/user/ct/da/lab1-parser/imgs/181.jpg
+Prodipe,JMFST2HLHRABL ST2HRA,Stratocaster,6,22,31.370,25.512,липа,голубой sonic blue,C:/Users/user/ct/da/lab1-parser/descrs/182.html,C:/Users/user/ct/da/lab1-parser/imgs/182.jpg
+REDHILL,SGX200/TR,Stratocaster,6,22,31.188,24.724,ольха,прозрачный красный,C:/Users/user/ct/da/lab1-parser/descrs/183.html,C:/Users/user/ct/da/lab1-parser/imgs/183.jpg
+REDHILL,TLX400/NA,Stratocaster,6,22,28.788,25.512,ольха,натуральный,C:/Users/user/ct/da/lab1-parser/descrs/184.html,C:/Users/user/ct/da/lab1-parser/imgs/184.jpg
+Prodipe,JMFST83RACAR ST83RA,Stratocaster,6,22,33.480,25.5,липа,красный candy red,C:/Users/user/ct/da/lab1-parser/descrs/185.html,C:/Users/user/ct/da/lab1-parser/imgs/185.jpg
+REDHILL,TLX100/TBLS -,Telecaster,6,22,17.988,25.512,ольха,голубой санберст,C:/Users/user/ct/da/lab1-parser/descrs/186.html,C:/Users/user/ct/da/lab1-parser/imgs/186.jpg
+STERLING,CT30HSS-SBK-R1,Stratocaster,6,22,45.650,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/187.html,C:/Users/user/ct/da/lab1-parser/imgs/187.jpg
+Magna,3000L-BLK,Stratocaster,6,22,41.650,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/188.html,C:/Users/user/ct/da/lab1-parser/imgs/188.jpg
+Magna,2000E-SBK,Stratocaster,6,22,30.440,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/189.html,C:/Users/user/ct/da/lab1-parser/imgs/189.jpg
+Magna,7000R-BRD,Stratocaster,6,22,49.840,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/190.html,C:/Users/user/ct/da/lab1-parser/imgs/190.jpg
+Sire,S7 AWH,Stratocaster,6,22,79.990,25.5,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/191.html,C:/Users/user/ct/da/lab1-parser/imgs/191.jpg
+REDHILL,STM300/CWH,Stratocaster,6,22,25.188,25.512,ольха,винтажный белый,C:/Users/user/ct/da/lab1-parser/descrs/192.html,C:/Users/user/ct/da/lab1-parser/imgs/192.jpg
+REDHILL,STM100/VS,Stratocaster,6,22,17.268,23.622,ольха,санберст,C:/Users/user/ct/da/lab1-parser/descrs/193.html,C:/Users/user/ct/da/lab1-parser/imgs/193.jpg
+REDHILL,STM300/MBK,Stratocaster,6,22,25.788,25.512,ольха,черный металлик,C:/Users/user/ct/da/lab1-parser/descrs/194.html,C:/Users/user/ct/da/lab1-parser/imgs/194.jpg
+REDHILL,LPX200/TBK,Stratocaster,6,22,31.788,24.724,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/195.html,C:/Users/user/ct/da/lab1-parser/imgs/195.jpg
+Prodipe,JMFST80MABL ST80MA,Stratocaster,6,22,29.530,25.5,липа,голубой sonic blue,C:/Users/user/ct/da/lab1-parser/descrs/196.html,C:/Users/user/ct/da/lab1-parser/imgs/196.jpg
+Prodipe,JMFST83RAVW,Stratocaster,6,22,29.530,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/197.html,C:/Users/user/ct/da/lab1-parser/imgs/197.jpg
+REDHILL,TLX100/BK,Stratocaster,6,22,17.988,25.512,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/198.html,C:/Users/user/ct/da/lab1-parser/imgs/198.jpg
+Magna,3000T-FBB,Stratocaster,6,22,33.290,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/199.html,C:/Users/user/ct/da/lab1-parser/imgs/199.jpg
+Clevan,CP-33FRTWR-GLOSS,Stratocaster,6,22,24.120,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/200.html,C:/Users/user/ct/da/lab1-parser/imgs/200.jpg
+REDHILL,LPX200/TBL,Stratocaster,6,22,31.788,24.724,ольха,прозрачный голубой,C:/Users/user/ct/da/lab1-parser/descrs/201.html,C:/Users/user/ct/da/lab1-parser/imgs/201.jpg
+Prodipe,JMFST80MASB ST80MA,Stratocaster,6,22,29.120,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/202.html,C:/Users/user/ct/da/lab1-parser/imgs/202.jpg
+REDHILL,TLX300/TR,Stratocaster,6,22,20.988,25.512,ольха,прозрачный красный,C:/Users/user/ct/da/lab1-parser/descrs/203.html,C:/Users/user/ct/da/lab1-parser/imgs/203.jpg
+REDHILL,STM200/DPBL,Stratocaster,6,22,17.988,25.512,ольха,темносиний,C:/Users/user/ct/da/lab1-parser/descrs/204.html,C:/Users/user/ct/da/lab1-parser/imgs/204.jpg
+STERLING,AX3S-WH-R1,Stratocaster,6,22,52.150,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/205.html,C:/Users/user/ct/da/lab1-parser/imgs/205.jpg
+Sire,S7 FM TBK,Stratocaster,6,22,86.990,25.5,ольха  огненный клен,черный,C:/Users/user/ct/da/lab1-parser/descrs/206.html,C:/Users/user/ct/da/lab1-parser/imgs/206.jpg
+STERLING,CT30SSS-CFR-R1,Stratocaster,6,22,45.650,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/207.html,C:/Users/user/ct/da/lab1-parser/imgs/207.jpg
+REDHILL,TLX300/NA,Stratocaster,6,22,20.988,25.512,ольха,натуральный,C:/Users/user/ct/da/lab1-parser/descrs/208.html,C:/Users/user/ct/da/lab1-parser/imgs/208.jpg
+REDHILL,LPX200/TRD,Stratocaster,6,22,31.788,24.724,ольха,прозрачныйй красный глянцевый,C:/Users/user/ct/da/lab1-parser/descrs/209.html,C:/Users/user/ct/da/lab1-parser/imgs/209.jpg
+REDHILL,STM400/NA,Stratocaster,6,22,35.988,25.512,ольха,натуральный,C:/Users/user/ct/da/lab1-parser/descrs/210.html,C:/Users/user/ct/da/lab1-parser/imgs/210.jpg
+Prodipe,JMFST80LHMAS ST80 LH MA,Stratocaster,6,22,27.740,25.5,липа,санберст,C:/Users/user/ct/da/lab1-parser/descrs/211.html,C:/Users/user/ct/da/lab1-parser/imgs/211.jpg
+Cort,G200-PPK G Series,Stratocaster,6,22,27.750,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/212.html,C:/Users/user/ct/da/lab1-parser/imgs/212.jpg
+STERLING,MAJ170-ADR,Stratocaster,6,22,192.250,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/213.html,C:/Users/user/ct/da/lab1-parser/imgs/213.jpg
+Prodipe,JMFSTJUNIORFR,Stratocaster,6,22,19.790,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/214.html,C:/Users/user/ct/da/lab1-parser/imgs/214.jpg
+Prodipe,JMFST80MAFR,Stratocaster,6,22,24.610,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/215.html,C:/Users/user/ct/da/lab1-parser/imgs/215.jpg
+Prodipe,JMFST80MABK ST80MA,Stratocaster,6,22,30.620,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/216.html,C:/Users/user/ct/da/lab1-parser/imgs/216.jpg
+STERLING,JP60-MDR2,Stratocaster,6,22,128.150,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/217.html,C:/Users/user/ct/da/lab1-parser/imgs/217.jpg
+REDHILL,STM300/RD,Stratocaster,6,22,25.188,25.512,ольха,красный,C:/Users/user/ct/da/lab1-parser/descrs/218.html,C:/Users/user/ct/da/lab1-parser/imgs/218.jpg
+STERLING,CT50SSS-TLB-R2,Stratocaster,6,22,88.100,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/219.html,C:/Users/user/ct/da/lab1-parser/imgs/219.jpg
+STERLING,AX3FM-TGO-M1,Stratocaster,6,22,58.650,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/220.html,C:/Users/user/ct/da/lab1-parser/imgs/220.jpg
+REDHILL,LPX200/VS,Stratocaster,6,22,31.788,24.724,ольха,санберст,C:/Users/user/ct/da/lab1-parser/descrs/221.html,C:/Users/user/ct/da/lab1-parser/imgs/221.jpg
+Prodipe,JMFTC80RASG,Stratocaster,6,22,29.120,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/222.html,C:/Users/user/ct/da/lab1-parser/imgs/222.jpg
+REDHILL,STM300/VS,Stratocaster,6,22,25.788,25.512,ольха,санберст,C:/Users/user/ct/da/lab1-parser/descrs/223.html,C:/Users/user/ct/da/lab1-parser/imgs/223.jpg
+REDHILL,TLX100/VS -,Stratocaster,6,22,17.988,25.512,ольха,санберст,C:/Users/user/ct/da/lab1-parser/descrs/224.html,C:/Users/user/ct/da/lab1-parser/imgs/224.jpg
+REDHILL,TLX100/CS,Stratocaster,6,22,17.988,25.512,ольха,черри санберст cherry sunburst,C:/Users/user/ct/da/lab1-parser/descrs/225.html,C:/Users/user/ct/da/lab1-parser/imgs/225.jpg
+STERLING,LK100-HZB,Stratocaster,6,22,132.950,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/226.html,C:/Users/user/ct/da/lab1-parser/imgs/226.jpg
+STERLING,AX3QM-SPR-M1,Stratocaster,6,22,62.600,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/227.html,C:/Users/user/ct/da/lab1-parser/imgs/227.jpg
+STERLING,CT30SSS-FRD-M1,Stratocaster,6,22,45.650,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/228.html,C:/Users/user/ct/da/lab1-parser/imgs/228.jpg
+Prodipe,JMFTC80MABS,Stratocaster,6,22,33.480,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/229.html,C:/Users/user/ct/da/lab1-parser/imgs/229.jpg
+Prodipe,JMFSTJUNIORBK,Stratocaster,6,22,17.460,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/230.html,C:/Users/user/ct/da/lab1-parser/imgs/230.jpg
+Prodipe,JMFST83RASB,Stratocaster,6,22,29.530,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/231.html,C:/Users/user/ct/da/lab1-parser/imgs/231.jpg
+STERLING,CT50HSS-VC-M2,Stratocaster,6,22,88.100,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/232.html,C:/Users/user/ct/da/lab1-parser/imgs/232.jpg
+Prodipe,JMFTC80MASB,Stratocaster,6,22,33.480,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/233.html,C:/Users/user/ct/da/lab1-parser/imgs/233.jpg
+STERLING,MARIPOSA-DGR-R2,Stratocaster,6,22,96.150,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/234.html,C:/Users/user/ct/da/lab1-parser/imgs/234.jpg
+REDHILL,TLX300/RD,Stratocaster,6,22,20.988,25.512,ольха,красный,C:/Users/user/ct/da/lab1-parser/descrs/235.html,C:/Users/user/ct/da/lab1-parser/imgs/235.jpg
+STERLING,CT50HSS-DBLS-M2,Stratocaster,6,22,88.100,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/236.html,C:/Users/user/ct/da/lab1-parser/imgs/236.jpg
+Sire,S7 Vintage AWH,Stratocaster,6,22,79.990,25.5,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/237.html,C:/Users/user/ct/da/lab1-parser/imgs/237.jpg
+Prodipe,JMFST80RAVW,Stratocaster,6,22,33.480,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/238.html,C:/Users/user/ct/da/lab1-parser/imgs/238.jpg
+STERLING,CT30SSS-DBL-M1,Stratocaster,6,22,45.650,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/239.html,C:/Users/user/ct/da/lab1-parser/imgs/239.jpg
+Prodipe,JMFST83LHRACA,Stratocaster,6,22,27.660,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/240.html,C:/Users/user/ct/da/lab1-parser/imgs/240.jpg
+S,by Solar AB4.7W,Stratocaster,7,22,35.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/241.html,C:/Users/user/ct/da/lab1-parser/imgs/241.jpg
+Cort,CR100-WBAG-BK Classic Rock с чехлом,Stratocaster,6,22,33.480,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/242.html,C:/Users/user/ct/da/lab1-parser/imgs/242.jpg
+Sire,S3 BK,Stratocaster,6,22,49.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/243.html,C:/Users/user/ct/da/lab1-parser/imgs/243.jpg
+CORT,G200-BLK,Stratocaster,6,22,27.750,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/244.html,C:/Users/user/ct/da/lab1-parser/imgs/244.jpg
+Solar,Guitars X1.6 Canibalismo,Stratocaster,6,22,219.990,24.7,болотный ясень,красный,C:/Users/user/ct/da/lab1-parser/descrs/245.html,C:/Users/user/ct/da/lab1-parser/imgs/245.jpg
+Fernandes,Dragonfly-X MBK,Stratocaster,6,22,49.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/246.html,C:/Users/user/ct/da/lab1-parser/imgs/246.jpg
+Magna,2000L-BK,Stratocaster,6,22,28.200,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/247.html,C:/Users/user/ct/da/lab1-parser/imgs/247.jpg
+Sire,S3 VWH,Stratocaster,6,22,49.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/248.html,C:/Users/user/ct/da/lab1-parser/imgs/248.jpg
+Solar,Guitars V2.6 Canibalismo+,Stratocaster,6,24,135.990,25.5,сунгкай,красный,C:/Users/user/ct/da/lab1-parser/descrs/249.html,C:/Users/user/ct/da/lab1-parser/imgs/249.jpg
+Solar,Guitars A1.6 Vinter,Stratocaster,6,24,209.990,25.5,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/250.html,C:/Users/user/ct/da/lab1-parser/imgs/250.jpg
+Solar,Guitars E2.6BOP SK,Stratocaster,6,22,129.990,24.7,сунгкай,цвет чёрный open pore,C:/Users/user/ct/da/lab1-parser/descrs/251.html,C:/Users/user/ct/da/lab1-parser/imgs/251.jpg
+Solar,Guitars X2.6C,Stratocaster,6,22,149.990,24.7,махагони,черный,C:/Users/user/ct/da/lab1-parser/descrs/252.html,C:/Users/user/ct/da/lab1-parser/imgs/252.jpg
+Solar,Guitars A1.7BOP-FF,Stratocaster,6,22,179.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/253.html,C:/Users/user/ct/da/lab1-parser/imgs/253.jpg
+Fernandes,TE-1Z HH CW,Telecaster,6,22,36.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/254.html,C:/Users/user/ct/da/lab1-parser/imgs/254.jpg
+Fernandes,TE-1Z BLK,Telecaster,6,22,36.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/255.html,C:/Users/user/ct/da/lab1-parser/imgs/255.jpg
+Fernandes,TE-1Z 3SB,Telecaster,6,22,36.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/256.html,C:/Users/user/ct/da/lab1-parser/imgs/256.jpg
+Fernandes,TE-1Z CAR,Telecaster,6,22,36.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/257.html,C:/Users/user/ct/da/lab1-parser/imgs/257.jpg
+Fernandes,TE-1Z CW,Telecaster,6,22,36.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/258.html,C:/Users/user/ct/da/lab1-parser/imgs/258.jpg
+Solar,Guitars A2.7 Canibalismo+,Stratocaster,6,22,125.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/259.html,C:/Users/user/ct/da/lab1-parser/imgs/259.jpg
+Root,Note ST201-SGY,Stratocaster,6,22,21.310,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/260.html,C:/Users/user/ct/da/lab1-parser/imgs/260.jpg
+Ibanez,GRX70QA-TKS,Stratocaster,6,22,25.800,25.512,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/261.html,C:/Users/user/ct/da/lab1-parser/imgs/261.jpg
+Fender,SQUIER MM STRATOCASTER HARD TAIL RED,Stratocaster,6,22,18.920,25.5,клееная древесина,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/262.html,C:/Users/user/ct/da/lab1-parser/imgs/262.jpg
+Ibanez,JEM-JR WH,Stratocaster,6,24,60.000,25.5,липа,белый,C:/Users/user/ct/da/lab1-parser/descrs/263.html,C:/Users/user/ct/da/lab1-parser/imgs/263.jpg
+Ibanez,GRG270B BLACK NIGHT,Stratocaster,6,22,21.454,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/264.html,C:/Users/user/ct/da/lab1-parser/imgs/264.jpg
+Yamaha,PACIFICA 012 BL,Stratocaster,6,22,27.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/265.html,C:/Users/user/ct/da/lab1-parser/imgs/265.jpg
+Epiphone,Les Paul Special VE Heritage Vintage Cherryburst,Les Paul,6,22,44.000,25.5,тополь,cherry sunburst  вишневый санберст,C:/Users/user/ct/da/lab1-parser/descrs/266.html,C:/Users/user/ct/da/lab1-parser/imgs/266.jpg
+Jackson,"JS1X RR, Minion, AH FB-SBK",Stratocaster,6,24,32.000,22.5,тополь,черный,C:/Users/user/ct/da/lab1-parser/descrs/267.html,C:/Users/user/ct/da/lab1-parser/imgs/267.jpg
+Fender,PLAYER STRAT PF 3TS,Stratocaster,6,22,127.000,25.5,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/268.html,C:/Users/user/ct/da/lab1-parser/imgs/268.jpg
+Gibson,2019 Les Paul Studio Wine Red,Les Paul studio,6,22,325.000,24.7,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/269.html,C:/Users/user/ct/da/lab1-parser/imgs/269.jpg
+Fender,Squier Affinity Telecaster MN 2-Color Sunburst,Telecaster,6,22,37.000,25.5,ольха,красный race red,C:/Users/user/ct/da/lab1-parser/descrs/270.html,C:/Users/user/ct/da/lab1-parser/imgs/270.jpg
+Yamaha,Pacifica-112J Black,Stratocaster,6,22,34.990,25.472,ольха,кремовый натуральный,C:/Users/user/ct/da/lab1-parser/descrs/271.html,C:/Users/user/ct/da/lab1-parser/imgs/271.jpg
+Epiphone,Les Paul Special VE Ebony Vintage,Les Paul,6,22,44.000,25.5,тополь,cherry sunburst  вишневый санберст,C:/Users/user/ct/da/lab1-parser/descrs/272.html,C:/Users/user/ct/da/lab1-parser/imgs/272.jpg
+Fender,Squier Bullet Strat Tremolo HSS RW Black,Stratocaster,6,21,16.100,25.5,липа,белый,C:/Users/user/ct/da/lab1-parser/descrs/273.html,C:/Users/user/ct/da/lab1-parser/imgs/273.jpg
+Cort,EVL-K4,Stratocaster,6,22,17.830,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/274.html,C:/Users/user/ct/da/lab1-parser/imgs/274.jpg
+Jackson,"JS22 SC, AH FB Satin Black",Les Paul,6,22,53.000,24.7,нато,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/275.html,C:/Users/user/ct/da/lab1-parser/imgs/275.jpg
+Schecter,C-7 APOCALYPSE RED REIGN,Stratocaster,7,24,103.500,26.5,болотный ясень,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/276.html,C:/Users/user/ct/da/lab1-parser/imgs/276.jpg
+Ibanez,GRX70QA-TRB,Stratocaster,6,21,25.800,255.197,тополь,transparent red burst красный санберст,C:/Users/user/ct/da/lab1-parser/descrs/277.html,C:/Users/user/ct/da/lab1-parser/imgs/277.jpg
+Epiphone,SG-Special VE Ebony,SG,6,22,41.000,25.5,тополь  шпон красного дерева,vintage sunburst  винтажный санберст,C:/Users/user/ct/da/lab1-parser/descrs/278.html,C:/Users/user/ct/da/lab1-parser/imgs/278.jpg
+Ibanez,GRX20-JB JEWEL BLUE,Stratocaster,6,22,21.700,25.5,тополь,черный,C:/Users/user/ct/da/lab1-parser/descrs/279.html,C:/Users/user/ct/da/lab1-parser/imgs/279.jpg
+Jackson,"JS11 DK, AH FB, 22 Fr BLK",Stratocaster,6,22,39.000,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/280.html,C:/Users/user/ct/da/lab1-parser/imgs/280.jpg
+Ibanez,GIO GSA60 BS,Stratocaster,6,22,28.500,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/281.html,C:/Users/user/ct/da/lab1-parser/imgs/281.jpg
+Ibanez,GIO GSA60-WNF WALNUT FLAT,Stratocaster,6,22,27.200,25.5,агатис,орех,C:/Users/user/ct/da/lab1-parser/descrs/282.html,C:/Users/user/ct/da/lab1-parser/imgs/282.jpg
+Jackson,"JS22-7 DKA, AH FB - HT STN BLK",Superstrat,7,22,55.000,25.5,тополь,черный,C:/Users/user/ct/da/lab1-parser/descrs/283.html,C:/Users/user/ct/da/lab1-parser/imgs/283.jpg
+Jackson,"JS32 RR, AH FB BLACK W/WHITE BEVELS",Rhoads,6,22,101.000,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/284.html,C:/Users/user/ct/da/lab1-parser/imgs/284.jpg
+Gibson,Les Paul Classic Ebony,Les Paul,6,22,447.000,25.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/285.html,C:/Users/user/ct/da/lab1-parser/imgs/285.jpg
+Ibanez,IJRX20U-BL,Stratocaster,6,22,43.000,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/286.html,C:/Users/user/ct/da/lab1-parser/imgs/286.jpg
+Ibanez,RG421 MOL MAHOGANY OIL,Modern stat,6,22,44.000,25.5,красное дерево,натуральный,C:/Users/user/ct/da/lab1-parser/descrs/287.html,C:/Users/user/ct/da/lab1-parser/imgs/287.jpg
+EPIPHONE,SLASH AFD LES PAUL SPECIAL-II OUTFIT,Les Paul,6,22,56.000,24.7,махагони с верхом из шпона волнистого клёна категории aaa,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/288.html,C:/Users/user/ct/da/lab1-parser/imgs/288.jpg
+Dean,ML 79 F TBZ,Explorer,6,22,139.086,25.5,красное дерево с топом из огненного клёна,натуральный санберст,C:/Users/user/ct/da/lab1-parser/descrs/289.html,C:/Users/user/ct/da/lab1-parser/imgs/289.jpg
+Ibanez,RG421EX-BKF,Stratocaster,6,24,49.000,25.5,махагони,матовый чёрный,C:/Users/user/ct/da/lab1-parser/descrs/290.html,C:/Users/user/ct/da/lab1-parser/imgs/290.jpg
+Gibson,Les Paul Standard 60s Bourbon Burst,Les Paul,6,22,525.000,25.5,махагони,санберст,C:/Users/user/ct/da/lab1-parser/descrs/291.html,C:/Users/user/ct/da/lab1-parser/imgs/291.jpg
+Yamaha,PACIFICA 012 WH,Stratocaster,6,22,27.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/292.html,C:/Users/user/ct/da/lab1-parser/imgs/292.jpg
+CARAYA,E232FTGR,Les Paul,6,22,18.780,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/293.html,C:/Users/user/ct/da/lab1-parser/imgs/293.jpg
+Ibanez,GIO GSA60 BLACK NIGHT,Stratocaster,6,22,27.200,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/294.html,C:/Users/user/ct/da/lab1-parser/imgs/294.jpg
+EPIPHONE,Les Paul Studio E1 Heritage Cherry Sunburst,Les Paul studio,6,22,58.000,24.7,красное дерево,санберст,C:/Users/user/ct/da/lab1-parser/descrs/295.html,C:/Users/user/ct/da/lab1-parser/imgs/295.jpg
+Epiphone,LES PAUL STUDIO LT Ebony,Les Paul studio,6,22,58.000,24.7,красное дерево,санберст,C:/Users/user/ct/da/lab1-parser/descrs/296.html,C:/Users/user/ct/da/lab1-parser/imgs/296.jpg
+Gibson,2019 SG TRIBUTE NATURAL WALNUT,SG,6,22,244.000,62.8,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/297.html,C:/Users/user/ct/da/lab1-parser/imgs/297.jpg
+Ibanez,GRX20-BK BLACK,Stratocaster,6,22,21.700,25.5,тополь,черный,C:/Users/user/ct/da/lab1-parser/descrs/298.html,C:/Users/user/ct/da/lab1-parser/imgs/298.jpg
+Jackson,"JS12 DK, AH FB, 24 Ft BLK",Stratocaster,6,24,49.000,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/299.html,C:/Users/user/ct/da/lab1-parser/imgs/299.jpg
+Gibson,FLYING V 120 EBONY,Stratocaster,6,24,156.265,24.7,махагони,черный,C:/Users/user/ct/da/lab1-parser/descrs/300.html,C:/Users/user/ct/da/lab1-parser/imgs/300.jpg
+Ibanez,GRGR131EX-BKF,Stratocaster,6,24,27.600,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/301.html,C:/Users/user/ct/da/lab1-parser/imgs/301.jpg
+Fender,PLAYER TELE MN BLK,Telecaster,6,22,120.471,25.5,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/302.html,C:/Users/user/ct/da/lab1-parser/imgs/302.jpg
+Ibanez,PRESTIGE JS2450-MCP MUSCLE CAR PURPLE,Stratocaster,6,24,275.000,25.5,ольха,фиолетовый,C:/Users/user/ct/da/lab1-parser/descrs/303.html,C:/Users/user/ct/da/lab1-parser/imgs/303.jpg
+Cort,G110-RD,Stratocaster,6,22,9.830,25.472,тополь,красный,C:/Users/user/ct/da/lab1-parser/descrs/304.html,C:/Users/user/ct/da/lab1-parser/imgs/304.jpg
+Yamaha,ERG121UBL,Stratocaster,6,22,27.990,25.512,липа,черный,C:/Users/user/ct/da/lab1-parser/descrs/305.html,C:/Users/user/ct/da/lab1-parser/imgs/305.jpg
+Fender,Squier Bullet Strat Tremolo HSS RW Arctic White,Stratocaster,6,21,16.100,25.5,липа,белый,C:/Users/user/ct/da/lab1-parser/descrs/306.html,C:/Users/user/ct/da/lab1-parser/imgs/306.jpg
+Epiphone,Les Paul Express Ebony,Les Paul,6,21,18.500,25.5,красное дерево,черное дерево ebony,C:/Users/user/ct/da/lab1-parser/descrs/307.html,C:/Users/user/ct/da/lab1-parser/imgs/307.jpg
+Schecter,Omen-8 BLK L/H,Stratocaster,8,22,55.990,25.5,липа,глянцевый черный,C:/Users/user/ct/da/lab1-parser/descrs/308.html,C:/Users/user/ct/da/lab1-parser/imgs/308.jpg
+Cort,CR300-ATB,Les Paul,6,22,51.340,24.724,красное дерево  15мм кленовый верх,винтажный санберст,C:/Users/user/ct/da/lab1-parser/descrs/309.html,C:/Users/user/ct/da/lab1-parser/imgs/309.jpg
+Cort,X-2-LH-BK X Series,Stratocaster,6,22,17.250,25.512,липа,черный,C:/Users/user/ct/da/lab1-parser/descrs/310.html,C:/Users/user/ct/da/lab1-parser/imgs/310.jpg
+Squier,"Contemporary Active Jazzmaster® HH ST, Laurel Fingerboard",Jazzmaster,6,22,64.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/311.html,C:/Users/user/ct/da/lab1-parser/imgs/311.jpg
+Fender,PLAYER STRAT PF PWT,Stratocaster,6,22,127.000,25.5,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/312.html,C:/Users/user/ct/da/lab1-parser/imgs/312.jpg
+Fender,PLAYER STRAT HSS MN BLK,Stratocaster,6,22,158.000,25.5,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/313.html,C:/Users/user/ct/da/lab1-parser/imgs/313.jpg
+Schecter,REAPER-7 MS SATIN CHARCOAL BURST (SCB),Stratocaster,7,24,85.990,25.5,болотный ясень,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/314.html,C:/Users/user/ct/da/lab1-parser/imgs/314.jpg
+Ibanez,RGRT421-WK,Stratocaster,6,24,56.000,25.5,махагони,вэзэред блэк,C:/Users/user/ct/da/lab1-parser/descrs/315.html,C:/Users/user/ct/da/lab1-parser/imgs/315.jpg
+Dean,RZR DB CBK NC,Explorer,6,22,64.742,24,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/316.html,C:/Users/user/ct/da/lab1-parser/imgs/316.jpg
+Schecter,C-6 DELUXE LH SBK,Stratocaster,6,24,36.990,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/317.html,C:/Users/user/ct/da/lab1-parser/imgs/317.jpg
+Gibson,2019 SG TRIBUTE VINTAGE CHERRY SATIN,SG,6,22,244.000,62.8,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/318.html,C:/Users/user/ct/da/lab1-parser/imgs/318.jpg
+Ibanez,GRX40-BKN,Stratocaster,6,22,23.500,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/319.html,C:/Users/user/ct/da/lab1-parser/imgs/319.jpg
+Ibanez,RG652AHMFX-NGB PRESTIGE,Stratocaster,6,22,155.000,25.5,ольха,синезеленый бёрст,C:/Users/user/ct/da/lab1-parser/descrs/320.html,C:/Users/user/ct/da/lab1-parser/imgs/320.jpg
+Fender,PLAYER TELE MN 3TS,Telecaster,6,22,144.000,25.5,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/321.html,C:/Users/user/ct/da/lab1-parser/imgs/321.jpg
+Ibanez,GIO GRG140-WH,Stratocaster,6,24,29.600,25.5,липа,white белый,C:/Users/user/ct/da/lab1-parser/descrs/322.html,C:/Users/user/ct/da/lab1-parser/imgs/322.jpg
+Fender,SQUIER SQ CV 60s JAZZMASTER LRL 3TS,Jazzmaster,6,21,67.000,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/323.html,C:/Users/user/ct/da/lab1-parser/imgs/323.jpg
+Cort,M600 BC,Stratocaster,6,22,34.440,24.764,ольха,black cherry тёмная вишня,C:/Users/user/ct/da/lab1-parser/descrs/324.html,C:/Users/user/ct/da/lab1-parser/imgs/324.jpg
+Yamaha,Pacifica 112VSB,Stratocaster,6,22,58.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/325.html,C:/Users/user/ct/da/lab1-parser/imgs/325.jpg
+Jackson,"JS11 DK, AH FB, 22 Fr MT RD",Stratocaster,6,22,49.000,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/326.html,C:/Users/user/ct/da/lab1-parser/imgs/326.jpg
+Clevan,CX-13MBK,Stratocaster,6,22,17.420,25.5,агатис,черный,C:/Users/user/ct/da/lab1-parser/descrs/327.html,C:/Users/user/ct/da/lab1-parser/imgs/327.jpg
+Fender,"PLAYER STRATOCASTER® HSS, PAU FERRO FINGERBOARD CAPRI ORANGE",Stratocaster,6,22,123.294,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/328.html,C:/Users/user/ct/da/lab1-parser/imgs/328.jpg
+Gibson,2019 Les Paul Studio Ebony,Les Paul studio,6,22,305.882,24.7,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/329.html,C:/Users/user/ct/da/lab1-parser/imgs/329.jpg
+Jackson,"JS32T KV, AH FB, S-THRU GLOSS BLACK",King V,6,22,68.000,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/330.html,C:/Users/user/ct/da/lab1-parser/imgs/330.jpg
+Ibanez,S521-BBS BLACKBERRY SUNBURST,Stratocaster,6,24,54.000,25.5,махагони,натуральный,C:/Users/user/ct/da/lab1-parser/descrs/331.html,C:/Users/user/ct/da/lab1-parser/imgs/331.jpg
+Jackson,"JS11 DK, AH FB, 22 Fr MT BL",Stratocaster,6,22,45.000,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/332.html,C:/Users/user/ct/da/lab1-parser/imgs/332.jpg
+Ibanez,GRG 7221QA-TKS GRG 7-STRING,Stratocaster,7,22,38.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/333.html,C:/Users/user/ct/da/lab1-parser/imgs/333.jpg
+Schecter,OMEN EXTREME-6 L/H BCH,Stratocaster,6,24,51.500,25.5,махагон,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/334.html,C:/Users/user/ct/da/lab1-parser/imgs/334.jpg
+DEAN,ZERO TRUST,Explorer,6,22,48.026,25.5,красное дерево,графика in deth we trust,C:/Users/user/ct/da/lab1-parser/descrs/335.html,C:/Users/user/ct/da/lab1-parser/imgs/335.jpg
+Ibanez,S520-WK,Stratocaster,6,24,70.000,25.5,махагони,черный,C:/Users/user/ct/da/lab1-parser/descrs/336.html,C:/Users/user/ct/da/lab1-parser/imgs/336.jpg
+Homage,HEG341BL,Stratocaster,6,22,13.180,25.5,ольха,синий,C:/Users/user/ct/da/lab1-parser/descrs/337.html,C:/Users/user/ct/da/lab1-parser/imgs/337.jpg
+Yamaha,Pacifica 120HVYNS,Stratocaster,6,22,61.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/338.html,C:/Users/user/ct/da/lab1-parser/imgs/338.jpg
+Jackson,JS32 DKA-M Dinky White,Stratocaster,6,24,77.000,25.5,липа,белый,C:/Users/user/ct/da/lab1-parser/descrs/339.html,C:/Users/user/ct/da/lab1-parser/imgs/339.jpg
+Jackson,DKAF8-BLACK,Superstrat,8,22,134.000,25.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/340.html,C:/Users/user/ct/da/lab1-parser/imgs/340.jpg
+CARAYA,E 200 BK,Stratocaster,6,22,15.650,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/341.html,C:/Users/user/ct/da/lab1-parser/imgs/341.jpg
+Ibanez,RGA42FM-BLF,Stratocaster,6,22,50.000,25.5,ольха,голубая лагуна,C:/Users/user/ct/da/lab1-parser/descrs/342.html,C:/Users/user/ct/da/lab1-parser/imgs/342.jpg
+Epiphone,Les Paul Special VE Vintage Sunburst,Les Paul,6,22,44.000,25.5,тополь,cherry sunburst  вишневый санберст,C:/Users/user/ct/da/lab1-parser/descrs/343.html,C:/Users/user/ct/da/lab1-parser/imgs/343.jpg
+Cort,CR100-BK,Les Paul,6,22,28.590,24.724,красное дерево,красный санберст,C:/Users/user/ct/da/lab1-parser/descrs/344.html,C:/Users/user/ct/da/lab1-parser/imgs/344.jpg
+Fender,Jim Root Jazzmaster® Black Satin,Jazzmaster,6,22,371.000,25.5,красное дерево,черный,C:/Users/user/ct/da/lab1-parser/descrs/345.html,C:/Users/user/ct/da/lab1-parser/imgs/345.jpg
+Yamaha,Pacifica 311H RM,Stratocaster,6,22,66.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/346.html,C:/Users/user/ct/da/lab1-parser/imgs/346.jpg
+Cort,X250-TDP,Stratocaster,6,24,33.900,25.5,два выреза меранти,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/347.html,C:/Users/user/ct/da/lab1-parser/imgs/347.jpg
+Gibson,2019 SG Standard Heritage Cherry,SG standard,6,22,345.000,62.8,красное дерево,heritage cherry,C:/Users/user/ct/da/lab1-parser/descrs/348.html,C:/Users/user/ct/da/lab1-parser/imgs/348.jpg
+Burny,RLC60JS BLK,Les Paul,6,22,59.990,24.7,махагони,черный,C:/Users/user/ct/da/lab1-parser/descrs/349.html,C:/Users/user/ct/da/lab1-parser/imgs/349.jpg
+Dean,RZR SHG Dimebag Razorback Shard Graphic,Explorer,6,22,58.240,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/350.html,C:/Users/user/ct/da/lab1-parser/imgs/350.jpg
+Aria,615-MK2 MBWH,Telecaster,6,22,20.990,25.512,тополь,mbwh marble white  мраморный белый,C:/Users/user/ct/da/lab1-parser/descrs/351.html,C:/Users/user/ct/da/lab1-parser/imgs/351.jpg
+Jackson,"JS32T RR, AH FB, S-THRU SATIN BLACK",Rhoads,6,22,96.000,25.5,тополь,черный,C:/Users/user/ct/da/lab1-parser/descrs/352.html,C:/Users/user/ct/da/lab1-parser/imgs/352.jpg
+Ibanez,Grx70qa-Tbb,Stratocaster,6,22,25.800,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/353.html,C:/Users/user/ct/da/lab1-parser/imgs/353.jpg
+Fender,SQUIER Affinity Stratocaster HH LRL OLW,Stratocaster,6,21,51.850,25.5,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/354.html,C:/Users/user/ct/da/lab1-parser/imgs/354.jpg
+Encore,E99WR,Les Paul,6,22,19.990,24.7,липа,красный,C:/Users/user/ct/da/lab1-parser/descrs/355.html,C:/Users/user/ct/da/lab1-parser/imgs/355.jpg
+Fender,"AMERICAN PERFORMER TELECASTER®, RW HONEY BURST",Telecaster,6,22,260.706,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/356.html,C:/Users/user/ct/da/lab1-parser/imgs/356.jpg
+Schecter,SGR C-1 BLK LH,Stratocaster,6,24,21.350,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/357.html,C:/Users/user/ct/da/lab1-parser/imgs/357.jpg
+CARAYA,E235BK,Stratocaster,6,22,20.180,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/358.html,C:/Users/user/ct/da/lab1-parser/imgs/358.jpg
+Blackstar,( CARRION-PCK-BLK) Carry On Back,Stratocaster,6,22,29.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/359.html,C:/Users/user/ct/da/lab1-parser/imgs/359.jpg
+Jackson,"JS22 DK, AH FB SBK",Superstrat,6,22,43.000,25.5,тополь,черный,C:/Users/user/ct/da/lab1-parser/descrs/360.html,C:/Users/user/ct/da/lab1-parser/imgs/360.jpg
+Jackson,JS32 KELLY AH FB - WHT,Explorer,6,22,70.000,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/361.html,C:/Users/user/ct/da/lab1-parser/imgs/361.jpg
+Fender,PLAYER STRAT MN PWT,Stratocaster,6,22,127.000,25.5,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/362.html,C:/Users/user/ct/da/lab1-parser/imgs/362.jpg
+Gibson,Les Paul Tribute Satin Tobacco Burst,Stratocaster,6,22,264.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/363.html,C:/Users/user/ct/da/lab1-parser/imgs/363.jpg
+Jackson,JS32 DKA-M Dinky Black,Stratocaster,6,24,81.000,25.5,липа,белый,C:/Users/user/ct/da/lab1-parser/descrs/364.html,C:/Users/user/ct/da/lab1-parser/imgs/364.jpg
+Fender,JIMMY PAGE TELECASTER RW NAT,Telecaster,6,22,260.000,25.5,ясень,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/365.html,C:/Users/user/ct/da/lab1-parser/imgs/365.jpg
+FENDER,SQUIER DELUXE STRAT HOT RAILS OLIMPIC WHITE,Stratocaster,6,22,34.000,25.512,липа,белый,C:/Users/user/ct/da/lab1-parser/descrs/366.html,C:/Users/user/ct/da/lab1-parser/imgs/366.jpg
+Fender,"PLAYER TELECASTER®, MAPLE FINGERBOARD CAPRI ORANGE",Telecaster,6,22,127.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/367.html,C:/Users/user/ct/da/lab1-parser/imgs/367.jpg
+Homage,HEG340BK,Stratocaster,6,22,12.850,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/368.html,C:/Users/user/ct/da/lab1-parser/imgs/368.jpg
+Yamaha,Pacifica-112VM RM,Stratocaster,6,22,50.990,25.472,ольха шпунтовое соединение,yellow natural satin,C:/Users/user/ct/da/lab1-parser/descrs/369.html,C:/Users/user/ct/da/lab1-parser/imgs/369.jpg
+Gibson,2019 LES PAUL MODERN FADED PELHAM BLUE TOP,Les Paul,6,22,584.000,25.5,махагони,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/370.html,C:/Users/user/ct/da/lab1-parser/imgs/370.jpg
+Ibanez,S521-MOL MAHOGANY OIL,Stratocaster,6,24,54.000,25.5,махагони,натуральный,C:/Users/user/ct/da/lab1-parser/descrs/371.html,C:/Users/user/ct/da/lab1-parser/imgs/371.jpg
+Cort,X 300-BLB X Series,Stratocaster,6,22,60.170,25.512,американская липа  вверх из клена,серый санберст,C:/Users/user/ct/da/lab1-parser/descrs/372.html,C:/Users/user/ct/da/lab1-parser/imgs/372.jpg
+CARAYA,E 228 BS,Stratocaster,6,22,18.500,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/373.html,C:/Users/user/ct/da/lab1-parser/imgs/373.jpg
+Jackson,DKAF7-BLACK,Superstrat,7,22,114.000,25.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/374.html,C:/Users/user/ct/da/lab1-parser/imgs/374.jpg
+Fender,Squier Mini Strat V2 BLK,Stratocaster,6,22,37.000,22.7,ольха,красный,C:/Users/user/ct/da/lab1-parser/descrs/375.html,C:/Users/user/ct/da/lab1-parser/imgs/375.jpg
+Schecter,REAPER-6 SKY BURST (SSKYB),Stratocaster,6,24,65.990,25.5,болотный ясень,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/376.html,C:/Users/user/ct/da/lab1-parser/imgs/376.jpg
+Yamaha,RGX121Z BLACK,Stratocaster,6,22,35.990,25.512,агатис,красный,C:/Users/user/ct/da/lab1-parser/descrs/377.html,C:/Users/user/ct/da/lab1-parser/imgs/377.jpg
+Fender,Squier Bullet Strat Tremolo HSS RW Brown Sunburst,Stratocaster,6,21,16.100,25.5,липа,белый,C:/Users/user/ct/da/lab1-parser/descrs/378.html,C:/Users/user/ct/da/lab1-parser/imgs/378.jpg
+Gibson,2019 Les Paul Studio SMOKEHOUSE BURST,Stratocaster,6,22,325.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/379.html,C:/Users/user/ct/da/lab1-parser/imgs/379.jpg
+Gretsch,"G5425 Jet Club, Rosewood Fingerboard Black",Les Paul,6,22,87.000,25.5,липа,черный,C:/Users/user/ct/da/lab1-parser/descrs/380.html,C:/Users/user/ct/da/lab1-parser/imgs/380.jpg
+Ibanez,GIO GIO GRG170DXL на левую руку BN,Stratocaster,6,22,36.000,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/381.html,C:/Users/user/ct/da/lab1-parser/imgs/381.jpg
+Gibson,CUSTOM LES PAUL CUSTOM EBONY LIMITED RUN,Les Paul custom,6,22,305.000,24.7,красное дерево,черный,C:/Users/user/ct/da/lab1-parser/descrs/382.html,C:/Users/user/ct/da/lab1-parser/imgs/382.jpg
+Gibson,2019 SG MODERN TRANS BLACK FADE,SG,6,22,428.000,25.5,махагони,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/383.html,C:/Users/user/ct/da/lab1-parser/imgs/383.jpg
+Ibanez,GRGM21M-BLT,Superstrat уменьшенная,6,22,24.800,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/384.html,C:/Users/user/ct/da/lab1-parser/imgs/384.jpg
+Ibanez,RGMS8-BK,Stratocaster,8,22,75.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/385.html,C:/Users/user/ct/da/lab1-parser/imgs/385.jpg
+Encore,E6VW,Stratocaster,6,22,13.990,25.5,липа,белый,C:/Users/user/ct/da/lab1-parser/descrs/386.html,C:/Users/user/ct/da/lab1-parser/imgs/386.jpg
+Schecter,SYNYSTER STANDARD,Stratocaster,6,24,81.600,25.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/387.html,C:/Users/user/ct/da/lab1-parser/imgs/387.jpg
+Fender,PLAYER TELE MN BTB,Telecaster,6,22,183.000,25.5,ольха,кремовый,C:/Users/user/ct/da/lab1-parser/descrs/388.html,C:/Users/user/ct/da/lab1-parser/imgs/388.jpg
+Yamaha,Pacifica 112V BL,Stratocaster,6,22,58.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/389.html,C:/Users/user/ct/da/lab1-parser/imgs/389.jpg
+Yamaha,Pacifica 112VYNS,Stratocaster,6,22,58.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/390.html,C:/Users/user/ct/da/lab1-parser/imgs/390.jpg
+Fender,"VINTERA '60S JAZZMASTER®, PAU FERRO FINGERBOARD OLYMPIC WHITE",Jazzmaster,6,21,192.000,25.5,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/391.html,C:/Users/user/ct/da/lab1-parser/imgs/391.jpg
+Gibson,Firebird Studio 2018 Vintage Sunburst,Firebird,6,22,90.000,24.7,ольха,винтажный санберст vintage sunburst,C:/Users/user/ct/da/lab1-parser/descrs/392.html,C:/Users/user/ct/da/lab1-parser/imgs/392.jpg
+Jackson,"JS12 DK, AH FB, 24 Fr WHT",Superstrat,6,22,56.000,25.5,тополь,белый,C:/Users/user/ct/da/lab1-parser/descrs/393.html,C:/Users/user/ct/da/lab1-parser/imgs/393.jpg
+Yamaha,Pacifica-112J YNS,Stratocaster,6,22,34.990,25.472,ольха,кремовый натуральный,C:/Users/user/ct/da/lab1-parser/descrs/394.html,C:/Users/user/ct/da/lab1-parser/imgs/394.jpg
+Jackson,"JS11 DK, AH FB, 22 Fr WHT",Stratocaster,6,22,43.000,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/395.html,C:/Users/user/ct/da/lab1-parser/imgs/395.jpg
+Cort,CR50-BK,Les Paul,6,22,24.640,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/396.html,C:/Users/user/ct/da/lab1-parser/imgs/396.jpg
+Fender,PLAYER STRAT HSS PF BLK,Stratocaster,6,22,160.000,25.5,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/397.html,C:/Users/user/ct/da/lab1-parser/imgs/397.jpg
+Schecter,SOLO-II CUSTOM ABSN,Stratocaster,6,22,87.990,24.7,красное дерево махагон,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/398.html,C:/Users/user/ct/da/lab1-parser/imgs/398.jpg
+Schecter,DEMON-7 FR ABSN,Stratocaster,7,24,53.650,26.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/399.html,C:/Users/user/ct/da/lab1-parser/imgs/399.jpg
+Ibanez,GRX40-CA,Stratocaster,6,22,23.400,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/400.html,C:/Users/user/ct/da/lab1-parser/imgs/400.jpg
+Jackson,DEMMELITION FURY PRO T-SN WHT,Explorer,6,24,168.000,25.5,махагони,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/401.html,C:/Users/user/ct/da/lab1-parser/imgs/401.jpg
+Cort,X500-Menace-BKS X Series,Stratocaster,6,24,81.880,25.512,красное дерево топ из клена,черный матовый,C:/Users/user/ct/da/lab1-parser/descrs/402.html,C:/Users/user/ct/da/lab1-parser/imgs/402.jpg
+Dean,ZX TBZ,Explorer,6,22,53.768,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/403.html,C:/Users/user/ct/da/lab1-parser/imgs/403.jpg
+Gibson,Les Paul Standard 2018 Orange Burst,Les Paul standard,6,22,198.287,62.8,красное дерево,blood orange burst,C:/Users/user/ct/da/lab1-parser/descrs/404.html,C:/Users/user/ct/da/lab1-parser/imgs/404.jpg
+Schecter,SGR AVENGER MBLK,Stratocaster,6,24,19.990,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/405.html,C:/Users/user/ct/da/lab1-parser/imgs/405.jpg
+Ibanez,GRX40-MGN,Stratocaster,6,22,23.400,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/406.html,C:/Users/user/ct/da/lab1-parser/imgs/406.jpg
+Yamaha,Pacifica-112J LPB,Stratocaster,6,22,34.990,25.472,ольха,кремовый натуральный,C:/Users/user/ct/da/lab1-parser/descrs/407.html,C:/Users/user/ct/da/lab1-parser/imgs/407.jpg
+Fender,"PLAYER TELECASTER® HH, PAU FERRO FINGERBOARD SILVER",Telecaster,6,22,131.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/408.html,C:/Users/user/ct/da/lab1-parser/imgs/408.jpg
+Epiphone,LES PAUL STUDIO EBONY CH,Les Paul studio,6,22,98.000,62.8,махагони,красный,C:/Users/user/ct/da/lab1-parser/descrs/409.html,C:/Users/user/ct/da/lab1-parser/imgs/409.jpg
+Dean,VMNT RIP,Stratocaster,6,22,130.976,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/410.html,C:/Users/user/ct/da/lab1-parser/imgs/410.jpg
+Schecter,C-6 Deluxe SBK,Stratocaster,6,24,33.500,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/411.html,C:/Users/user/ct/da/lab1-parser/imgs/411.jpg
+Jackson,"JS32 DKA, AH FB STN BLK",Stratocaster,6,24,75.000,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/412.html,C:/Users/user/ct/da/lab1-parser/imgs/412.jpg
+Ibanez,GIOGRG170DX BN,Stratocaster,6,22,34.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/413.html,C:/Users/user/ct/da/lab1-parser/imgs/413.jpg
+Jackson,JS Series King JS32 Matte Army Drab,Stratocaster,6,22,40.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/414.html,C:/Users/user/ct/da/lab1-parser/imgs/414.jpg
+Schecter,DEMON-6 LH,Stratocaster,6,24,49.990,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/415.html,C:/Users/user/ct/da/lab1-parser/imgs/415.jpg
+Dean,VMNTX CBK,Stratocaster,6,22,58.938,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/416.html,C:/Users/user/ct/da/lab1-parser/imgs/416.jpg
+Gibson,Les Paul Standard 60s Iced Tea,Les Paul,6,22,525.000,25.5,махагони,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/417.html,C:/Users/user/ct/da/lab1-parser/imgs/417.jpg
+Ibanez,SA260FM-TGB,Stratocaster,6,22,50.000,25.5,огненный кленовый топ  корпус из красного дерева,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/418.html,C:/Users/user/ct/da/lab1-parser/imgs/418.jpg
+Yamaha,Pacifica-112J OVS,Stratocaster,6,22,34.990,25.472,ольха,кремовый натуральный,C:/Users/user/ct/da/lab1-parser/descrs/419.html,C:/Users/user/ct/da/lab1-parser/imgs/419.jpg
+Schecter,E-1 FR-S TPB (SE),Stratocaster,6,24,122.500,25.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/420.html,C:/Users/user/ct/da/lab1-parser/imgs/420.jpg
+J&D,80 S NL,Stratocaster,6,22,44.173,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/421.html,C:/Users/user/ct/da/lab1-parser/imgs/421.jpg
+Gibson,2019 SG Standard `61 Vintage Cherry,SG,6,22,407.000,62.8,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/422.html,C:/Users/user/ct/da/lab1-parser/imgs/422.jpg
+CARAYA,E 211 RD,Stratocaster,6,22,15.200,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/423.html,C:/Users/user/ct/da/lab1-parser/imgs/423.jpg
+Cort,CR150-ODS,Les Paul,6,22,25.480,24.724,красное дерево,зеленый оливковый,C:/Users/user/ct/da/lab1-parser/descrs/424.html,C:/Users/user/ct/da/lab1-parser/imgs/424.jpg
+Fernandes,LE-1Z BLK/L,Stratocaster,6,22,26.990,25.5,ольха,3х цветный санбёрст 3tone sunburst,C:/Users/user/ct/da/lab1-parser/descrs/425.html,C:/Users/user/ct/da/lab1-parser/imgs/425.jpg
+Ibanez,SA260FM-VLS,Stratocaster,6,22,50.000,25.5,огненный кленовый топ  корпус из красного дерева,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/426.html,C:/Users/user/ct/da/lab1-parser/imgs/426.jpg
+Burny,RLC60 BLK LH,Les Paul,6,22,79.990,24.7,махагони,черный,C:/Users/user/ct/da/lab1-parser/descrs/427.html,C:/Users/user/ct/da/lab1-parser/imgs/427.jpg
+Yamaha,Pacifica-120H VW,Stratocaster,6,22,61.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/428.html,C:/Users/user/ct/da/lab1-parser/imgs/428.jpg
+Jackson,Pro SL2 - Mick T Sig. BLK,Superstrat,6,22,201.000,25.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/429.html,C:/Users/user/ct/da/lab1-parser/imgs/429.jpg
+Gibson,2019 ES PAUL TRIBUTE SATIN CHERRY SUNBURST,Les Paul,6,22,264.000,25.5,махагони,вишневый,C:/Users/user/ct/da/lab1-parser/descrs/430.html,C:/Users/user/ct/da/lab1-parser/imgs/430.jpg
+Cort,CR250-DBB,Les Paul,6,22,47.180,24.724,красное деревоволнистый клен,темно синий санберст,C:/Users/user/ct/da/lab1-parser/descrs/431.html,C:/Users/user/ct/da/lab1-parser/imgs/431.jpg
+Dean,MLX CBK,Explorer,6,22,57.106,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/432.html,C:/Users/user/ct/da/lab1-parser/imgs/432.jpg
+Magna,BES 4216 / ZAS,Stratocaster,6,22,30.470,25.5,махагон,зебра чернобелые круги,C:/Users/user/ct/da/lab1-parser/descrs/433.html,C:/Users/user/ct/da/lab1-parser/imgs/433.jpg
+Fender,PLAYER STRAT HSS MN PWT,Stratocaster,6,22,131.000,25.5,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/434.html,C:/Users/user/ct/da/lab1-parser/imgs/434.jpg
+Yamaha,PACIFICA 012 RM,Stratocaster,6,22,27.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/435.html,C:/Users/user/ct/da/lab1-parser/imgs/435.jpg
+Gibson,Les Paul Standard 50s Heritage Cherry Sunburst,Les Paul,6,22,525.000,25.5,махагони,вишневый,C:/Users/user/ct/da/lab1-parser/descrs/436.html,C:/Users/user/ct/da/lab1-parser/imgs/436.jpg
+Cort,KX500MS-SDB KX Series,Stratocaster,7,22,69.010,255.354,болотный ясень  верх из волнистого тополя,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/437.html,C:/Users/user/ct/da/lab1-parser/imgs/437.jpg
+Yamaha,Pacifica 212V FM TBS,Stratocaster,6,22,63.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/438.html,C:/Users/user/ct/da/lab1-parser/imgs/438.jpg
+Ibanez,RG350DXZ-WH,Stratocaster,6,22,63.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/439.html,C:/Users/user/ct/da/lab1-parser/imgs/439.jpg
+Dean,VMNT AOD,Stratocaster,6,22,223.375,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/440.html,C:/Users/user/ct/da/lab1-parser/imgs/440.jpg
+FGN,Boundary Iliad BIL2M BK,Telecaster,6,22,59.990,25.5,липа,черный,C:/Users/user/ct/da/lab1-parser/descrs/441.html,C:/Users/user/ct/da/lab1-parser/imgs/441.jpg
+EPIPHONE,Les Paul Standard 50s Heritage Cherry Sunburst,Les Paul,6,22,117.000,24.7,махагони,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/442.html,C:/Users/user/ct/da/lab1-parser/imgs/442.jpg
+Schecter,SUN VALLEY SUPER SHREDDER PT-FR SFG,Telecaster,6,22,57.990,25.5,красное дерево махагон,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/443.html,C:/Users/user/ct/da/lab1-parser/imgs/443.jpg
+Cort,CR200-BK,Les Paul,6,22,41.630,24.724,красное дерево,черный,C:/Users/user/ct/da/lab1-parser/descrs/444.html,C:/Users/user/ct/da/lab1-parser/imgs/444.jpg
+Fender,SQUIER Affinity Telecaster Deluxe MN BLK,Telecaster,6,21,48.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/445.html,C:/Users/user/ct/da/lab1-parser/imgs/445.jpg
+Epiphone,SG Standard Cherry,SG,6,22,106.000,24.7,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/446.html,C:/Users/user/ct/da/lab1-parser/imgs/446.jpg
+Jackson,"JS32-8 DKA, AH FB STN BLK",Stratocaster,8,24,84.000,26.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/447.html,C:/Users/user/ct/da/lab1-parser/imgs/447.jpg
+Gibson,2019 Explorer Antique Natural,Explorer,6,22,386.000,25.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/448.html,C:/Users/user/ct/da/lab1-parser/imgs/448.jpg
+Solar,Guitars E2.6C,Stratocaster,6,22,119.990,24.7,махогани,carbon matte угольночерный матовый,C:/Users/user/ct/da/lab1-parser/descrs/449.html,C:/Users/user/ct/da/lab1-parser/imgs/449.jpg
+Schecter,E-1 SLS ELITE BFB,Explorer,6,24,106.990,25.5,болотный ясень,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/450.html,C:/Users/user/ct/da/lab1-parser/imgs/450.jpg
+Ibanez,RG320EXZ-BKF,Stratocaster,6,24,63.000,25.5,меранти,матовый чёрный,C:/Users/user/ct/da/lab1-parser/descrs/451.html,C:/Users/user/ct/da/lab1-parser/imgs/451.jpg
+Fender,PLAYER STRAT MN BLK,Stratocaster,6,22,127.000,25.5,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/452.html,C:/Users/user/ct/da/lab1-parser/imgs/452.jpg
+Cort,X250-BK,Stratocaster,6,24,43.770,25.5,два выреза меранти,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/453.html,C:/Users/user/ct/da/lab1-parser/imgs/453.jpg
+Ibanez,AR 420-VLS,Stratocaster,6,22,74.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/454.html,C:/Users/user/ct/da/lab1-parser/imgs/454.jpg
+Gibson,LES PAUL CUSTOM WINE RED GOLD,Les Paul custom,6,22,362.000,25.5,махагони,черный,C:/Users/user/ct/da/lab1-parser/descrs/455.html,C:/Users/user/ct/da/lab1-parser/imgs/455.jpg
+Ibanez,M80M-WK,Stratocaster,8,22,170.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/456.html,C:/Users/user/ct/da/lab1-parser/imgs/456.jpg
+Schecter,C-8 DELUXE SBK,Stratocaster,8,24,48.500,28,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/457.html,C:/Users/user/ct/da/lab1-parser/imgs/457.jpg
+KRAMER,Focus VT-211S Purple,Stratocaster,6,22,24.100,64.7,красное дерево,фиолетовый,C:/Users/user/ct/da/lab1-parser/descrs/458.html,C:/Users/user/ct/da/lab1-parser/imgs/458.jpg
+Jackson,"JS22 DKA, AH FB-MBL",Stratocaster,6,22,50.000,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/459.html,C:/Users/user/ct/da/lab1-parser/imgs/459.jpg
+CARAYA,E233BK,Stratocaster,6,22,20.120,25.512,древесина твердых пород,черный,C:/Users/user/ct/da/lab1-parser/descrs/460.html,C:/Users/user/ct/da/lab1-parser/imgs/460.jpg
+Dean,C 550F MWH,Stratocaster,6,22,59.665,25,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/461.html,C:/Users/user/ct/da/lab1-parser/imgs/461.jpg
+Schecter,DEMON S-II ABSN (SBK),Stratocaster,6,24,41.990,24.7,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/462.html,C:/Users/user/ct/da/lab1-parser/imgs/462.jpg
+Jackson,DKAF7-STAINED MAH,Superstrat,7,22,135.000,25.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/463.html,C:/Users/user/ct/da/lab1-parser/imgs/463.jpg
+Yamaha,RGX121Z REDMETALLIC,Stratocaster,6,22,35.990,25.512,агатис,красный,C:/Users/user/ct/da/lab1-parser/descrs/464.html,C:/Users/user/ct/da/lab1-parser/imgs/464.jpg
+Fender,PLAYER STRAT HSH PF TBS,Stratocaster,6,22,168.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/465.html,C:/Users/user/ct/da/lab1-parser/imgs/465.jpg
+Ibanez,RG370AHMZ-SWK,Stratocaster,6,24,69.795,25.5,ясень,сильвер вэйв блэк,C:/Users/user/ct/da/lab1-parser/descrs/466.html,C:/Users/user/ct/da/lab1-parser/imgs/466.jpg
+Epiphone,Explorer,Explorer,6,22,135.000,24.7,махагони,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/467.html,C:/Users/user/ct/da/lab1-parser/imgs/467.jpg
+Schecter,DEMON-6 FR CRB,Stratocaster,6,24,52.990,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/468.html,C:/Users/user/ct/da/lab1-parser/imgs/468.jpg
+Encore,E99CSB,Les Paul,6,22,19.990,24.7,липа,санбёрст,C:/Users/user/ct/da/lab1-parser/descrs/469.html,C:/Users/user/ct/da/lab1-parser/imgs/469.jpg
+Fender,SQUIER SQ CV 70s TELE DLX MN OWT,Telecaster,6,21,71.000,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/470.html,C:/Users/user/ct/da/lab1-parser/imgs/470.jpg
+FGN,Boundary Iliad BIL2MHS BK,Telecaster,6,22,59.990,25.5,липа,черный,C:/Users/user/ct/da/lab1-parser/descrs/471.html,C:/Users/user/ct/da/lab1-parser/imgs/471.jpg
+Ibanez,S6570SK-STB Prestige,Stratocaster,6,22,233.000,25.5,ольха,сансет,C:/Users/user/ct/da/lab1-parser/descrs/472.html,C:/Users/user/ct/da/lab1-parser/imgs/472.jpg
+Schecter,NICK JOHNSTON TRAD H/S/S AGRN,Stratocaster,6,22,74.500,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/473.html,C:/Users/user/ct/da/lab1-parser/imgs/473.jpg
+CARAYA,E232FTBK,Stratocaster,6,22,20.790,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/474.html,C:/Users/user/ct/da/lab1-parser/imgs/474.jpg
+Epiphone,LES PAUL STUDIO WORN CHERRY CH HDWE,Les Paul studio,6,22,32.927,62.8,махагони,красный,C:/Users/user/ct/da/lab1-parser/descrs/475.html,C:/Users/user/ct/da/lab1-parser/imgs/475.jpg
+Jackson,PRO DK MODERN ASH HT7 - BK BLU,Stratocaster,7,24,293.000,25.5,ясень,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/476.html,C:/Users/user/ct/da/lab1-parser/imgs/476.jpg
+Schecter,DEMON-7 CRB,Stratocaster,7,24,52.990,26.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/477.html,C:/Users/user/ct/da/lab1-parser/imgs/477.jpg
+Fender,SQUIER SQ CV 70s STRAT HSS MN,Stratocaster,6,22,67.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/478.html,C:/Users/user/ct/da/lab1-parser/imgs/478.jpg
+Jackson,"JS1X DK, Minion, AH FB-BLK",Stratocaster,6,22,38.000,25.5,тополь,черный,C:/Users/user/ct/da/lab1-parser/descrs/479.html,C:/Users/user/ct/da/lab1-parser/imgs/479.jpg
+Ibanez,AZ2204-ICM,Stratocaster,6,22,219.000,25.5,ольха,ice blue metallic,C:/Users/user/ct/da/lab1-parser/descrs/480.html,C:/Users/user/ct/da/lab1-parser/imgs/480.jpg
+Cort,KX100-IO,Stratocaster,6,22,19.850,24.724,американская липа,серый металлик,C:/Users/user/ct/da/lab1-parser/descrs/481.html,C:/Users/user/ct/da/lab1-parser/imgs/481.jpg
+Fender,PLAYER TELE MN PWT,Telecaster,6,22,160.000,25.5,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/482.html,C:/Users/user/ct/da/lab1-parser/imgs/482.jpg
+Schecter,PT SPECIAL BLKP,Telecaster,6,22,63.990,25.5,болотный ясень,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/483.html,C:/Users/user/ct/da/lab1-parser/imgs/483.jpg
+Yamaha,PACIFICA 012 DBM,Stratocaster,6,22,27.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/484.html,C:/Users/user/ct/da/lab1-parser/imgs/484.jpg
+CARAYA,E239CS,Les Paul,6,22,28.330,24.724,древесина твердых пород,санберст,C:/Users/user/ct/da/lab1-parser/descrs/485.html,C:/Users/user/ct/da/lab1-parser/imgs/485.jpg
+Dean,V 79 TBZ,Stratocaster,6,22,101.990,24,ольха,trans brazilia,C:/Users/user/ct/da/lab1-parser/descrs/486.html,C:/Users/user/ct/da/lab1-parser/imgs/486.jpg
+Fender,SPECIAL EDITION CUSTOM TELECASTER RW HH BLACK CHERRY BURST,Telecaster,6,22,71.029,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/487.html,C:/Users/user/ct/da/lab1-parser/imgs/487.jpg
+Fender,SQUIER SE SPECIAL/SQUIER SP-10 AMPLIFIER - SUNBURST,Stratocaster,6,22,27.400,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/488.html,C:/Users/user/ct/da/lab1-parser/imgs/488.jpg
+Ibanez,PREMIUM JEM77P-BFP BLUE FLORAL PATTERN,Stratocaster,6,24,182.000,25.5,липа,синяя графика,C:/Users/user/ct/da/lab1-parser/descrs/489.html,C:/Users/user/ct/da/lab1-parser/imgs/489.jpg
+Phil,Pro ML-805A/BLS,"Superstrat, выпуклый верх",6,24,16.025,25.5,ольха верх из волнистого клёна,синий,C:/Users/user/ct/da/lab1-parser/descrs/490.html,C:/Users/user/ct/da/lab1-parser/imgs/490.jpg
+Schecter,OMEN 8 VWHT,Stratocaster,8,24,52.990,26.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/491.html,C:/Users/user/ct/da/lab1-parser/imgs/491.jpg
+EPIPHONE,LES PAUL BLACK BEAUTY EBONY 3 PICKUP,Les Paul,6,22,57.000,25.512,махагони,черный,C:/Users/user/ct/da/lab1-parser/descrs/492.html,C:/Users/user/ct/da/lab1-parser/imgs/492.jpg
+Schecter,C-7 DELUXE SBK L/H,Stratocaster,7,24,41.350,26.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/493.html,C:/Users/user/ct/da/lab1-parser/imgs/493.jpg
+CARAYA,E201STB,Stratocaster,6,22,15.090,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/494.html,C:/Users/user/ct/da/lab1-parser/imgs/494.jpg
+Fender,Stratocaster JIMI HENDRIX STRAT MN OWT,Stratocaster,6,22,207.000,25.5,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/495.html,C:/Users/user/ct/da/lab1-parser/imgs/495.jpg
+Yamaha,PACIFICA 212VQM TBS,Stratocaster,6,22,63.990,25.5,клен  ольха  стеганый ламинированный клен,tobacco brown sunburst,C:/Users/user/ct/da/lab1-parser/descrs/496.html,C:/Users/user/ct/da/lab1-parser/imgs/496.jpg
+Solar,Guitars A2.7C LH,Stratocaster,7,24,119.990,26.5,махогани,черный матовый,C:/Users/user/ct/da/lab1-parser/descrs/497.html,C:/Users/user/ct/da/lab1-parser/imgs/497.jpg
+Fender,PLAYER STRAT HSS PF 3TS,Stratocaster,6,22,131.000,25.5,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/498.html,C:/Users/user/ct/da/lab1-parser/imgs/498.jpg
+Epiphone,Les Paul Studio Wine Red,Les Paul,6,22,98.000,24.7,махагони,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/499.html,C:/Users/user/ct/da/lab1-parser/imgs/499.jpg
+Cort,KX500-Etched-EBK с фирменным чехлом,Stratocaster,6,22,72.690,25.512,красное дерево  верх из капа ясеня пескоструйная обработка,травленый черный,C:/Users/user/ct/da/lab1-parser/descrs/500.html,C:/Users/user/ct/da/lab1-parser/imgs/500.jpg
+Dean,Deceiver DM,Stratocaster,6,22,44.845,24,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/501.html,C:/Users/user/ct/da/lab1-parser/imgs/501.jpg
+Schecter,SGR C-7 MSBK,Stratocaster,7,22,20.990,25.5,липа,металлический черный,C:/Users/user/ct/da/lab1-parser/descrs/502.html,C:/Users/user/ct/da/lab1-parser/imgs/502.jpg
+FGN,Boundary Iliad BIL2M 3TS,Telecaster,6,22,59.990,25.5,липа,3хцветный санберст,C:/Users/user/ct/da/lab1-parser/descrs/503.html,C:/Users/user/ct/da/lab1-parser/imgs/503.jpg
+Dean,ML 79 TBZ,Explorer,6,22,96.247,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/504.html,C:/Users/user/ct/da/lab1-parser/imgs/504.jpg
+Epiphone,1959 Les Paul Standard Aged Dark Burst,Stratocaster,6,22,176.000,24.7,махагони,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/505.html,C:/Users/user/ct/da/lab1-parser/imgs/505.jpg
+Dean,ML SEL CBK,Stratocaster,6,22,149.934,95.827,махагон,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/506.html,C:/Users/user/ct/da/lab1-parser/imgs/506.jpg
+Ibanez,RGA42EX-BAM,Stratocaster,6,24,50.000,25.5,меранти,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/507.html,C:/Users/user/ct/da/lab1-parser/imgs/507.jpg
+Blackstar,Carry On Deluxe White,Stratocaster,6,22,39.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/508.html,C:/Users/user/ct/da/lab1-parser/imgs/508.jpg
+Schecter,OMEN EXTREME-6 FR BCH,Stratocaster,6,24,51.990,25.5,махагон,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/509.html,C:/Users/user/ct/da/lab1-parser/imgs/509.jpg
+Cort,X-11-QMGRB,Stratocaster,6,22,30.190,25.512,липаволнистый клен,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/510.html,C:/Users/user/ct/da/lab1-parser/imgs/510.jpg
+Dean,VX FM CHB,Stratocaster,6,22,65.488,24,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/511.html,C:/Users/user/ct/da/lab1-parser/imgs/511.jpg
+EPIPHONE,Les Paul Studio Smokehouse Burst,Les Paul,6,22,98.000,24.7,махагони,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/512.html,C:/Users/user/ct/da/lab1-parser/imgs/512.jpg
+Encore,LH-E6BLK,Stratocaster,6,22,15.990,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/513.html,C:/Users/user/ct/da/lab1-parser/imgs/513.jpg
+IBANEZ,RG421MSP-TSP,Stratocaster,6,24,55.000,25.5,меранти,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/514.html,C:/Users/user/ct/da/lab1-parser/imgs/514.jpg
+Fender,Ritchie Blackmore Strat Owt,Stratocaster,6,22,216.000,25.5,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/515.html,C:/Users/user/ct/da/lab1-parser/imgs/515.jpg
+Schecter,SGR 006 FR BLK,Stratocaster,6,22,22.255,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/516.html,C:/Users/user/ct/da/lab1-parser/imgs/516.jpg
+Fender,"American Original '50s Telecaster, Maple Fingerboard Butterscotch Blonde",Telecaster,6,22,296.000,25.5,ясень,кремовый butterscotch blonde,C:/Users/user/ct/da/lab1-parser/descrs/517.html,C:/Users/user/ct/da/lab1-parser/imgs/517.jpg
+VINTAGE,V6HMBB,Stratocaster,6,22,29.990,25.5,американская ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/518.html,C:/Users/user/ct/da/lab1-parser/imgs/518.jpg
+Cort,X-2-BK X Series,Stratocaster,6,24,15.900,25.512,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/519.html,C:/Users/user/ct/da/lab1-parser/imgs/519.jpg
+Ibanez,RG550-RF,Stratocaster,6,22,106.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/520.html,C:/Users/user/ct/da/lab1-parser/imgs/520.jpg
+Dean,VXL CBK,Stratocaster,6,22,53.768,24,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/521.html,C:/Users/user/ct/da/lab1-parser/imgs/521.jpg
+Cort,Sunset-TC-OPBR,Stratocaster,6,22,41.420,25.512,ясень,красный burgundy red,C:/Users/user/ct/da/lab1-parser/descrs/522.html,C:/Users/user/ct/da/lab1-parser/imgs/522.jpg
+Schecter,OMEN EXTREME-6 FR VSB,Stratocaster,6,24,51.990,25.5,махагон,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/523.html,C:/Users/user/ct/da/lab1-parser/imgs/523.jpg
+Dean,VN1F GN Vendetta 1.0 Floyd,Stratocaster,6,22,26.880,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/524.html,C:/Users/user/ct/da/lab1-parser/imgs/524.jpg
+Epiphone,CASINO NATURAL,Stratocaster,6,22,145.000,25.5,клен,санберст,C:/Users/user/ct/da/lab1-parser/descrs/525.html,C:/Users/user/ct/da/lab1-parser/imgs/525.jpg
+Fender,SQUIER SQ CV 60s MUSTANG LRL SNB,Mustang,6,22,67.000,25.5,тополь,голубой,C:/Users/user/ct/da/lab1-parser/descrs/526.html,C:/Users/user/ct/da/lab1-parser/imgs/526.jpg
+Gibson,2019 Les Paul Classic Heritage Cherry Sunburst,Les Paul,6,22,447.000,25.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/527.html,C:/Users/user/ct/da/lab1-parser/imgs/527.jpg
+Charvel,PM SD2 HH JOE D STN WHT,San Dimas,6,22,132.000,25.5,нато,белый,C:/Users/user/ct/da/lab1-parser/descrs/528.html,C:/Users/user/ct/da/lab1-parser/imgs/528.jpg
+Epiphone,PROPHECY LES PAUL CUSTOM PLUS EX MIDNIGHT SAPPHIRE,Les Paul,6,24,72.000,25.5,махагони,черная вишня,C:/Users/user/ct/da/lab1-parser/descrs/529.html,C:/Users/user/ct/da/lab1-parser/imgs/529.jpg
+Jackson,"JS32Q DKA, AH FB-TR BL",Stratocaster,6,24,84.000,25.5,топольклён,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/530.html,C:/Users/user/ct/da/lab1-parser/imgs/530.jpg
+Schecter,BANSHEE-7 EXTREME CB,Stratocaster,7,24,54.890,26.5,красное дерево махагон,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/531.html,C:/Users/user/ct/da/lab1-parser/imgs/531.jpg
+Cort,CR200-FBL Classic Rock,Les Paul,6,22,45.790,24.724,красное дерево,синий,C:/Users/user/ct/da/lab1-parser/descrs/532.html,C:/Users/user/ct/da/lab1-parser/imgs/532.jpg
+CARAYA,E 210 BS,Stratocaster,6,22,14.480,25.512,древесина твердых пород,коричневый санберст,C:/Users/user/ct/da/lab1-parser/descrs/533.html,C:/Users/user/ct/da/lab1-parser/imgs/533.jpg
+Fernandes,RX08 MTR,Stratocaster,6,24,39.990,25.512,ольха,black,C:/Users/user/ct/da/lab1-parser/descrs/534.html,C:/Users/user/ct/da/lab1-parser/imgs/534.jpg
+Schecter,HELLRAISER C-7 BCH,Stratocaster,7,24,91.990,26.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/535.html,C:/Users/user/ct/da/lab1-parser/imgs/535.jpg
+Ibanez,RG652AHM,Superstrat,6,22,168.000,25.5,ясень,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/536.html,C:/Users/user/ct/da/lab1-parser/imgs/536.jpg
+Yamaha,RGX121Z FLATSILVER,Stratocaster,6,22,35.990,25.512,агатис,красный,C:/Users/user/ct/da/lab1-parser/descrs/537.html,C:/Users/user/ct/da/lab1-parser/imgs/537.jpg
+YAMAHA,PACIFICA611VFM TBL,Stratocaster,6,22,109.990,25.512,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/538.html,C:/Users/user/ct/da/lab1-parser/imgs/538.jpg
+Dean,ML XL CBK,Explorer,6,22,59.834,24,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/539.html,C:/Users/user/ct/da/lab1-parser/imgs/539.jpg
+FGN,Boundary Odyssey BOS2GHH SWH,Stratocaster,6,22,54.990,25.5,липа,белый,C:/Users/user/ct/da/lab1-parser/descrs/540.html,C:/Users/user/ct/da/lab1-parser/imgs/540.jpg
+GRETSCH,G2210 STRML JR JET CLB GNMTL,Les Paul,6,22,65.000,25.5,ольха,серозеленый,C:/Users/user/ct/da/lab1-parser/descrs/541.html,C:/Users/user/ct/da/lab1-parser/imgs/541.jpg
+Dean,Zoltan AR-6 Flame Top,Explorer,6,22,180.782,25.5,красное дерево,high gloss natural,C:/Users/user/ct/da/lab1-parser/descrs/542.html,C:/Users/user/ct/da/lab1-parser/imgs/542.jpg
+Rockdale,DS-ST112-SB,Stratocaster,6,22,8.400,25.5,липа,полупрозрачный красный,C:/Users/user/ct/da/lab1-parser/descrs/543.html,C:/Users/user/ct/da/lab1-parser/imgs/543.jpg
+Cort,X700-Mutility-BKS X Series,Stratocaster,6,24,97.760,24.7,красное дерево топ из клена и ясеня,черный матовый,C:/Users/user/ct/da/lab1-parser/descrs/544.html,C:/Users/user/ct/da/lab1-parser/imgs/544.jpg
+JACKSON,X Series Soloist™ SLX,Soloist,6,22,61.406,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/545.html,C:/Users/user/ct/da/lab1-parser/imgs/545.jpg
+Fender,Jim Root Stratocaster 2010 - RW-Black,Stratocaster,6,22,316.000,25.5,махагони,черный,C:/Users/user/ct/da/lab1-parser/descrs/546.html,C:/Users/user/ct/da/lab1-parser/imgs/546.jpg
+Dean,VN1 Vendetta 1.0 Gloss Natural,Stratocaster,6,22,30.676,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/547.html,C:/Users/user/ct/da/lab1-parser/imgs/547.jpg
+Cort,G110-CGN,Stratocaster,6,22,21.210,25.472,тополь,зеленый,C:/Users/user/ct/da/lab1-parser/descrs/548.html,C:/Users/user/ct/da/lab1-parser/imgs/548.jpg
+EPIPHONE,Firebird Vintage Sunburst,Firebird,6,22,135.000,25.5,красное дерево,vintage sunburst  винтажный санберст,C:/Users/user/ct/da/lab1-parser/descrs/549.html,C:/Users/user/ct/da/lab1-parser/imgs/549.jpg
+Fender,SQUIER Affinity Jazzmaster LRL BGM,Stratocaster,6,21,48.000,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/550.html,C:/Users/user/ct/da/lab1-parser/imgs/550.jpg
+Schecter,SGR SOLO II BLK,Stratocaster,6,22,20.500,24.7,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/551.html,C:/Users/user/ct/da/lab1-parser/imgs/551.jpg
+Fender,PLAYER STRAT HSS MN BCR,Stratocaster,6,22,131.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/552.html,C:/Users/user/ct/da/lab1-parser/imgs/552.jpg
+Ibanez,UV70P-BK,Stratocaster,7,22,167.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/553.html,C:/Users/user/ct/da/lab1-parser/imgs/553.jpg
+Yamaha,PACIFICA112VM GR,Stratocaster,6,22,50.990,25.472,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/554.html,C:/Users/user/ct/da/lab1-parser/imgs/554.jpg
+Epiphone,SG Muse Radio Blue Metallic,SG,6,22,100.000,24.7,махагони,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/555.html,C:/Users/user/ct/da/lab1-parser/imgs/555.jpg
+Fender,"VINTERA 60S STRATOCASTER®, PAU FERRO FINGERBOARD 3-COLOR SUNBURST",Stratocaster,6,22,190.118,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/556.html,C:/Users/user/ct/da/lab1-parser/imgs/556.jpg
+Dean,RC7X SKLZ Rusty Cooley,Stratocaster,7,22,149.934,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/557.html,C:/Users/user/ct/da/lab1-parser/imgs/557.jpg
+Epiphone,Les Paul Custom Ebony,Les Paul,6,22,138.000,24.7,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/558.html,C:/Users/user/ct/da/lab1-parser/imgs/558.jpg
+Gretsch,"G5426 Jet Club, Rosewood Fingerboard Silver",Les Paul,6,22,87.000,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/559.html,C:/Users/user/ct/da/lab1-parser/imgs/559.jpg
+Schecter,SUN VALLEY SUPER SHREDDER PT-FR MWHT,Telecaster,6,22,61.500,25.5,красное дерево махагон,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/560.html,C:/Users/user/ct/da/lab1-parser/imgs/560.jpg
+Fender,AMERICAN PERFORMER TELECASTER MN VINTAGE WHITE,Telecaster,6,22,268.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/561.html,C:/Users/user/ct/da/lab1-parser/imgs/561.jpg
+Fender,SQUIER Affinity Telecaster Deluxe LRL CFM,Telecaster,6,22,52.000,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/562.html,C:/Users/user/ct/da/lab1-parser/imgs/562.jpg
+Fender,PLAYER TELE PF 3TS,Telecaster,6,22,144.000,25.5,ольха,санберст,C:/Users/user/ct/da/lab1-parser/descrs/563.html,C:/Users/user/ct/da/lab1-parser/imgs/563.jpg
+Gibson,2019 SG MODERN BLUEBERRY FADE,SG,6,22,428.000,25.5,махагони,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/564.html,C:/Users/user/ct/da/lab1-parser/imgs/564.jpg
+Yamaha,Pacifica-120H TBS,Stratocaster,6,22,61.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/565.html,C:/Users/user/ct/da/lab1-parser/imgs/565.jpg
+Fender,"Squier Stratocaster® Pack, Laurel Fingerboard Black, Gig Bag, 10G - 230V EU",Stratocaster,6,22,46.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/566.html,C:/Users/user/ct/da/lab1-parser/imgs/566.jpg
+Yamaha,PACIFICA 212VQM CB,Stratocaster,6,22,63.990,25.5,клен  ольха  стеганый ламинированный клен,tobacco brown sunburst,C:/Users/user/ct/da/lab1-parser/descrs/567.html,C:/Users/user/ct/da/lab1-parser/imgs/567.jpg
+Aria,STG-57 BK,Stratocaster,6,22,20.990,25.5,ольха,bk black  черный,C:/Users/user/ct/da/lab1-parser/descrs/568.html,C:/Users/user/ct/da/lab1-parser/imgs/568.jpg
+Schecter,OMEN EXTREME S-II BCH,Stratocaster,6,24,32.355,24.7,махагон,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/569.html,C:/Users/user/ct/da/lab1-parser/imgs/569.jpg
+Schecter,DAMIEN PLATINUM-6 SBK,Stratocaster,6,22,56.500,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/570.html,C:/Users/user/ct/da/lab1-parser/imgs/570.jpg
+Schecter,PT PRO TPB,Telecaster,6,22,88.990,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/571.html,C:/Users/user/ct/da/lab1-parser/imgs/571.jpg
+Ibanez,GRG121DXL-WNF,Stratocaster,6,22,32.000,25.5,ольха,натуральный,C:/Users/user/ct/da/lab1-parser/descrs/572.html,C:/Users/user/ct/da/lab1-parser/imgs/572.jpg
+Ibanez,GRX40-MLB,Stratocaster,6,22,23.400,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/573.html,C:/Users/user/ct/da/lab1-parser/imgs/573.jpg
+GIBSON,Les Paul Modern Sparkling Burgundy,Les Paul,6,22,584.000,25.5,махагони,вишневый,C:/Users/user/ct/da/lab1-parser/descrs/574.html,C:/Users/user/ct/da/lab1-parser/imgs/574.jpg
+Schecter,SGR C-1 MSBK,Stratocaster,6,24,19.990,25.5,липа,металлический матовый черный,C:/Users/user/ct/da/lab1-parser/descrs/575.html,C:/Users/user/ct/da/lab1-parser/imgs/575.jpg
+Cort,KX300-Etched-EBR,Stratocaster,6,24,55.500,25.512,красное дерево  верх из волнистого ясеня пескоструйная обработка,красный,C:/Users/user/ct/da/lab1-parser/descrs/576.html,C:/Users/user/ct/da/lab1-parser/imgs/576.jpg
+KRAMER,Focus VT-211S Ruby Red,Stratocaster,6,22,24.100,64.7,красное дерево,красный,C:/Users/user/ct/da/lab1-parser/descrs/577.html,C:/Users/user/ct/da/lab1-parser/imgs/577.jpg
+Dean,EVOXM SN,Stratocaster,6,22,38.743,24,ольха,натуральный матовый,C:/Users/user/ct/da/lab1-parser/descrs/578.html,C:/Users/user/ct/da/lab1-parser/imgs/578.jpg
+Cort,M-Jet-BK Manson Stage,Stratocaster,6,22,49.050,25.512,американская липа,черный матовый,C:/Users/user/ct/da/lab1-parser/descrs/579.html,C:/Users/user/ct/da/lab1-parser/imgs/579.jpg
+CARAYA,HL-1A-WH,Stratocaster,6,22,33.750,25.5,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/580.html,C:/Users/user/ct/da/lab1-parser/imgs/580.jpg
+Fender,PLAYER TELE PF PWT,Telecaster,6,22,127.000,25.5,ольха,белый,C:/Users/user/ct/da/lab1-parser/descrs/581.html,C:/Users/user/ct/da/lab1-parser/imgs/581.jpg
+Cort,G Series G260CS-BK,Stratocaster,6,22,42.260,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/582.html,C:/Users/user/ct/da/lab1-parser/imgs/582.jpg
+Schecter,BANSHEE GT FR S.TP,Stratocaster,6,24,98.990,25.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/583.html,C:/Users/user/ct/da/lab1-parser/imgs/583.jpg
+Dean,Leslie West Standard,Stratocaster,6,22,44.800,24,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/584.html,C:/Users/user/ct/da/lab1-parser/imgs/584.jpg
+Jackson,"JS22 DKA, AH FB-WHT",Stratocaster,6,22,52.000,25.5,тополь,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/585.html,C:/Users/user/ct/da/lab1-parser/imgs/585.jpg
+Epiphone,SG-Special VE Heritage Cherry Sunburst,SG,6,22,23.920,25.5,тополь  шпон красного дерева,vintage sunburst  винтажный санберст,C:/Users/user/ct/da/lab1-parser/descrs/586.html,C:/Users/user/ct/da/lab1-parser/imgs/586.jpg
+Schecter,SUN VALLEY SUPER SHREDDER FR S BIRCH GREEN,Stratocaster,6,24,81.250,25.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/587.html,C:/Users/user/ct/da/lab1-parser/imgs/587.jpg
+Fender,PLAYER JAZZMASTER PF 3TS,Jazzmaster,6,22,131.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/588.html,C:/Users/user/ct/da/lab1-parser/imgs/588.jpg
+Fender,PLAYER STRAT MN 3TS,Stratocaster,6,22,127.000,25.5,ольха,черный,C:/Users/user/ct/da/lab1-parser/descrs/589.html,C:/Users/user/ct/da/lab1-parser/imgs/589.jpg
+Cort,X-4-BK X Series,Stratocaster,6,24,19.480,25.512,американская липа basswood,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/590.html,C:/Users/user/ct/da/lab1-parser/imgs/590.jpg
+IBANEZ,RG7421-WNF,Stratocaster,7,22,56.000,25.5,махагони,орех,C:/Users/user/ct/da/lab1-parser/descrs/591.html,C:/Users/user/ct/da/lab1-parser/imgs/591.jpg
+Homage,HEG380SB,Stratocaster,6,22,9.400,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/592.html,C:/Users/user/ct/da/lab1-parser/imgs/592.jpg
+CARAYA,E231TRD,Stratocaster,6,22,20.180,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/593.html,C:/Users/user/ct/da/lab1-parser/imgs/593.jpg
+Jackson,Pro Series Rhoads RR3 Ivory with Black,Stratocaster,6,22,262.000,25.5,ольха,слоновая кость с черными обводами,C:/Users/user/ct/da/lab1-parser/descrs/594.html,C:/Users/user/ct/da/lab1-parser/imgs/594.jpg
+Fender,"PLAYER STRATOCASTER® HSH, PAU FERRO FINGERBOARD SILVER",Stratocaster,6,22,131.000,25.5,ольха,серый,C:/Users/user/ct/da/lab1-parser/descrs/595.html,C:/Users/user/ct/da/lab1-parser/imgs/595.jpg
+Gretsch,GUITARS G5421 ELECTROMATIC JET™ CLUB FIREBIRD RED,Stratocaster,6,22,87.000,25.5,ольха,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/596.html,C:/Users/user/ct/da/lab1-parser/imgs/596.jpg
+Schecter,OMEN-8 BLK,Stratocaster,8,24,52.990,26.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/597.html,C:/Users/user/ct/da/lab1-parser/imgs/597.jpg
+Fender,SQUIER CLASSIC VIBE STRAT 60`s 3-COLOR SUNBURST,Stratocaster,6,21,49.822,25.512,ольха,темное золото,C:/Users/user/ct/da/lab1-parser/descrs/598.html,C:/Users/user/ct/da/lab1-parser/imgs/598.jpg
+Burny,RSG60`63 CR,SG,6,22,59.990,24.7,махагони,красный,C:/Users/user/ct/da/lab1-parser/descrs/599.html,C:/Users/user/ct/da/lab1-parser/imgs/599.jpg
+Schecter,DAMIEN-6 SBK,Stratocaster,6,24,54.182,25.5,красное дерево,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/600.html,C:/Users/user/ct/da/lab1-parser/imgs/600.jpg
+Aria,PE-350PF AGBK,Les Paul,6,22,23.500,25.5,окоуме,agbk aged black,C:/Users/user/ct/da/lab1-parser/descrs/601.html,C:/Users/user/ct/da/lab1-parser/imgs/601.jpg
+Schecter,DEMON-6 FR ABSN,Stratocaster,6,24,52.990,25.5,липа,чёрный,C:/Users/user/ct/da/lab1-parser/descrs/602.html,C:/Users/user/ct/da/lab1-parser/imgs/602.jpg
